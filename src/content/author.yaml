@@ -1,10 +1,10 @@
-- id: Ghost
-  avatar: avatars/ghost.png
-  bio: The professional publishing platform
+- id: Quentin Monmousseau
+  avatar: avatars/quentin-monmousseau.png
+  bio: In love with Data, Cognitive and Sports Science.
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/
-  location: On a plane
+  location: Paris, France
 - id: Another Author
   avatar: avatars/ghost.png
   bio: This is another test author with a profile background image
