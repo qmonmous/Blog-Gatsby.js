@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'A blog by Quentin Monmousseau',
     description: 'Here I write about Data Science, Cognitive Science through UX/UI design, and Sports Science.'
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    siteUrl: '', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
