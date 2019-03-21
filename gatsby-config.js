@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'A blog by Quentin Monmousseau',
-    description: 'Here I write about Data Science, Cognitive Science through UX/UI design, and Sports Science.'
-    siteUrl: 'https://upbeat-murdock-d33ac7.netlify.com', // full path to blog - no ending slash
+    title: 'Ghost',
+    description: 'The professional publishing platform',
+    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
