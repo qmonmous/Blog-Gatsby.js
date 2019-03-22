@@ -6,7 +6,7 @@ author: Quentin Monmousseau
 date: 2019-03-10T10:00:00.000Z
 tags:
   - Source
-  - cognitive-science
+  - Cognitive Science
 ---
 
 You'll find the source of this blog on GitHub.  
