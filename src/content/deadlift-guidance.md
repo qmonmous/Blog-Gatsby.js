@@ -24,6 +24,8 @@ Romanian deadlifts are widely chosen to focus the work on hamstrings and
 
 If you cannot reach the floor without a spinal flexion - no matter how much mobility work you do - I highly recommend you avoid classic deadlifts. Fortunately, there are options for you that I’ll discuss right now.
 
+---
+
 ## II. Less ROM with Rack pulls and block pulls
 
 Some people aren’t able to perform heavy deadlifts without a spinal flexion or tend to not being able as they fatigue. This hasn’t to stop you from deadlifting. The main problem is the ROM people have to travel. The idea is to reduce this ROM. To do so, you can give a try to rack or block pulls.

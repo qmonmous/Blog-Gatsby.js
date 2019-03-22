@@ -3,7 +3,7 @@ layout: post
 title: An introduction to Machine Learning by the workflow
 author: Quentin Monmousseau
 tags: [Data Science]
-image: img/blog-cover.jpg
+image: img/brain.jpg
 date: 2015-03-02T23:46:37.121Z
 draft: false
 ---
@@ -41,7 +41,7 @@ Here are the different steps we are going to go through.
 ## Intro. Requirements
 
 Before starting, you need to set up your developing environment. If you didn’t, please follow this easy tutorial to get started.
-Also, be aware that some bullets points highlighted below imply a basic understanding of different mathematics concepts. I highly recommend you read/keep aside this article on Statistics Basics if you are not confident at all with mathematics.
+Also, be aware that some bullets points highlighted below imply a basic understanding of different mathematics concepts. I highly recommend you read/keep aside this article on Statistics Basics if you are not confident with mathematics.
 
 <a id="one"></a>
 ## I. Data loading and overview
@@ -131,6 +131,8 @@ df.boxplot();
 - data points that fall outside of 1,5*IQR above the 3rd quartile and below the 1st quartile.
 - data points that fall outside of 3 standard deviations, using z-score.
 
+Once again keep in mind that it won't work for every data. Let's say we have minimum values of 0. Using IQR would remove them. Now what if we are working on a number of trips? People who have never traveled won't be legit outliers for sure. Try to stick to the context while removing outliers.
+
 ```python
 #Delete univariate outliers using sigma-clipping operations
 quartiles = np.percentile(df['feature'], [25, 50, 75])
@@ -140,14 +142,10 @@ sig = 0.74 * (quartiles[2] - quartiles[0])
 df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
 
 #Delete univariate outliers using IQR
-quartiles = np.percentile(df['feature'], [25, 50, 75])
-mu = quartiles[1]
-sig = 0.74 * (quartiles[2] - quartiles[0])
 
-df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
-````
+```
 
-III. Features engineering](#three)**
+## III. Features engineering
 - Transformations
   - Categorical datas: One-hot encoding, 
   - Standardization
@@ -157,13 +155,13 @@ III. Features engineering](#three)**
 Une fois les variables catégorielles encodées, on peut faire une matrice de corrélation (de Pearson). Par soucis de performance en terme de vitesse d'execution, il est recommandé de réduire au maximum le nombre de features. Dans ce cas, on conservera des features fortement corréllées à la target et très peu entre elles pour apporter chacune des informations intéressantes.
 
 
-IV.
+## IV.
 
 b. Metrics/Loss function
 
 
 
-#### Classifications problems:
+**Classifications problems:**
 - **MSE (Mean Squared Error)**:
 
 - **accuracy score**:
