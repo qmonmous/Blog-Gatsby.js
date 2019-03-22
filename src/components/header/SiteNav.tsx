@@ -150,6 +150,9 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
             <li role="menuitem">
               <Link to="/tags/getting-started/">Data Science</Link>
             </li>
+            <li role="menuitem">
+              <Link to="/tags/cognitive-science/">Cognitive Science</Link>
+            </li>
           </ul>
         </SiteNavLeft>
         <SiteNavRight>
