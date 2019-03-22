@@ -6,7 +6,7 @@
   website: https://ghost.org/
   location: Paris in France
 - id: Another Author
-  avatar: avatars/ghost.png
+  avatar: avatars/ghost-icon.png
   bio: This is another test author with a profile background image
   twitter: TryGhost
   facebook: ghost
