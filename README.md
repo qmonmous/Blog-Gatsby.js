@@ -1,13 +1,11 @@
-# gatsby-casper
+# Blog Gatsby.js
 
 Demo: https://gatsby-casper.netlify.com/  
 
 This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v2 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
 
-## Getting Started
-Edit website-config.ts with your website settings.
 Either disable subscribe or setup a mailchimp list and add the form action and hidden field input name.
-
+This repository contains my blog and articles made with [Gatsby.js](https://www.gatsbyjs.org/). It also includes Google Analytics.
 
 ### Progress
 - [x] emotion / component styles
