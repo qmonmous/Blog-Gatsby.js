@@ -1,9 +1,9 @@
-- id: DataScience
+- id: Data Science
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
-- id: CognitiveScience
+- id: Cognitive Science
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
-  - id: SportsScience
+- id: Sports Science
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
