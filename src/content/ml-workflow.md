@@ -8,8 +8,6 @@ date: 2015-03-02T23:46:37.121Z
 draft: false
 ---
 
-# Introduction to Machine Learning by its workflow
-
 In this article, we are going to see how you should organize your machine learning workflow. It also includes some examples using python's libraries.
 
 Here are the different steps we are going to go through.

@@ -33,8 +33,9 @@ Rack pulls are
 
 Block pulls are
 
+---
 
-## III. Lifesaver: Trap Bar Deadlifts
+## III. Lifesaver: Trap Bar Deadlifts  
 
 For a lot of lifters, trap bar is such a benediction. The overall movement pattern is still similar to a conventional deadlift but it allows for more flexibility in the movement.
 
