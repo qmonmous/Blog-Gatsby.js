@@ -231,45 +231,45 @@ export const PostFullContent = styled.section`
 
   h1 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 4.6rem;
+    font-size: 4.4rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
     h1 {
-      font-size: 2.8rem;
+      font-size: 2.6rem;
     }
   }
 
   h2 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 3.6rem;
+    font-size: 3.4rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
     h2 {
-      font-size: 2.6rem;
+      font-size: 2.4rem;
     }
   }
 
   h3 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    font-size: 2.6rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
     h3 {
-      font-size: 2.2rem;
+      font-size: 2.0rem;
     }
   }
 
   h4 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    font-size: 2.6rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
     h4 {
-      font-size: 2.2rem;
+      font-size: 2.0rem;
     }
   }
 
@@ -280,7 +280,7 @@ export const PostFullContent = styled.section`
     border: 0;
     color: ${colors.blue};
     font-family: Georgia, serif;
-    font-size: 3.2rem;
+    font-size: 3rem;
     line-height: 1.35em;
     text-align: center;
   }
@@ -292,18 +292,18 @@ export const PostFullContent = styled.section`
   @media (max-width: 500px) {
     h5 {
       padding: 0 0 0.5em;
-      font-size: 2.2rem;
+      font-size: 2rem;
     }
   }
 
   h6 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
     h6 {
-      font-size: 2rem;
+      font-size: 1.8rem;
     }
   }
 
