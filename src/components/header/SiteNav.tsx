@@ -157,15 +157,15 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
         </SiteNavLeft>
         <SiteNavRight>
           <SocialLinks>
-            {config.facebook && (
+            {config.linkedin && (
               <a
                 css={SocialLink}
-                href={config.facebook}
+                href={config.linkedin}
                 target="_blank"
-                title="Facebook"
+                title="Linkedin"
                 rel="noopener noreferrer"
               >
-                <Facebook />
+                <Linkedin />
               </a>
             )}
             {config.twitter && (

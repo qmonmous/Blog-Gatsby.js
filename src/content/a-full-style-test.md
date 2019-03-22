@@ -100,11 +100,11 @@ Code can be presented inline, like `<?php bloginfo('stylesheet_url'); ?>`, or us
 filter](http://jekyllrb.com/docs/templates/#code-snippet-highlighting) to
 highlight a block of code. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.
 
-```css
+```python
 #container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
+    x = 0
+    import pandas as pd
+    v = x * 5
 }
 ```
 
