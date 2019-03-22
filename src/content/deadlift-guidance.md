@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deadlift guidance – find your variation
+title: A deadlift guidance to find your variation
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/blog-cover.jpg

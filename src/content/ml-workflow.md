@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introduction to Machine Learning by its workflow
+title: An introduction to Machine Learning by the workflow
 author: Quentin Monmousseau
 tags: [Data Science]
 image: img/blog-cover.jpg
-date: 2015-02-02T23:46:37.121Z
+date: 2015-03-02T23:46:37.121Z
 draft: false
 ---
 
