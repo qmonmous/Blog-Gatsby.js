@@ -211,18 +211,6 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                     <Twitter />
                   </a>
                 )}
-                {author.github && (
-                  <a
-                    className="social-link-tw"
-                    css={SocialLink}
-                    href={author.github}
-                    title="Github"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <Github />
-                  </a>
-                )}
                 {author.linkedin && (
                   <a
                     className="social-link-tw"
@@ -233,6 +221,18 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                     rel="noopener noreferrer"
                   >
                     <Linkedin />
+                  </a>
+                )}
+                {author.github && (
+                  <a
+                    className="social-link-tw"
+                    css={SocialLink}
+                    href={author.github}
+                    title="Github"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Github />
                   </a>
                 )}
                 {/* TODO: RSS for author */}
