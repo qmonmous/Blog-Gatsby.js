@@ -21,7 +21,7 @@ This repository contains my blog and articles made with [Gatsby.js](https://www.
 - [x] polish ✨
   - [x] meta tags
   - [x] page titles
-- [ ] manage social medias on author page
+- [x] manage social medias on author page
 
 
 ### Deploy to Netlify
