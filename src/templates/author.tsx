@@ -21,11 +21,12 @@ import {
   SocialLink,
 } from '../styles/shared';
 import { PageContext } from './post';
-import Facebook from '../components/icons/github';
 import Helmet from 'react-helmet';
 import config from '../website-config';
-import Website from '../components/icons/website';
+// import Website from '../components/icons/website';
+import Linkedin from '../components/icons/github';
 import Twitter from '../components/icons/twitter';
+import Github from '../components/icons/twitter';
 
 const HiddenMobile = css`
   @media (max-width: 500px) {
@@ -92,9 +93,9 @@ interface AuthorTemplateProps {
     };
     authorYaml: {
       id: string;
-      website?: string;
+      linkedin?: string;
       twitter?: string;
-      facebook?: string;
+      github?: string;
       location?: string;
       profile_image?: {
         childImageSharp: {
@@ -210,16 +211,28 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                     <Twitter />
                   </a>
                 )}
-                {author.facebook && (
+                {author.github && (
                   <a
                     className="social-link-fb"
                     css={SocialLink}
-                    href={`https://www.facebook.com/${author.facebook}`}
-                    title="Facebook"
+                    href={`https://www.facebook.com/${author.github}`}
+                    title="Github"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <Facebook />
+                    <Github />
+                  </a>
+                )}
+                {author.linkedin && (
+                  <a
+                    className="social-link-fb"
+                    css={SocialLink}
+                    href={`https://www.facebook.com/${author.linkedin}`}
+                    title="Linkedin"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Linkedin />
                   </a>
                 )}
                 {/* TODO: RSS for author */}
