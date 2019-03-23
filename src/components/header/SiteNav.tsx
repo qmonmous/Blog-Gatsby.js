@@ -7,7 +7,7 @@ import { css } from '@emotion/core';
 import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';
 import Linkedin from '../icons/linkedin';
-import Facebook from '../icons/github';
+import Github from '../icons/github';
 import Twitter from '../icons/twitter';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
@@ -152,7 +152,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
               <Link to="/tags/sports-science/">Sports Science</Link>
             </li>
             <li role="menuitem">
-              <Link to="author/quentin-monmousseau/">About</Link>
+              <Link to="author/quentin-monmousseau/">About me</Link>
             </li>
           </ul>
         </SiteNavLeft>
