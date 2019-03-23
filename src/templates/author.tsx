@@ -23,7 +23,7 @@ import {
 import { PageContext } from './post';
 import Helmet from 'react-helmet';
 import config from '../website-config';
-// import Website from '../components/icons/website';
+import Website from '../components/icons/website';
 import Linkedin from '../components/icons/github';
 import Twitter from '../components/icons/twitter';
 import Github from '../components/icons/twitter';
