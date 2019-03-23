@@ -279,7 +279,8 @@ export const pageQuery = graphql`
       website
       twitter
       bio
-      facebook
+      github
+      linkedin
       location
       profile_image {
         childImageSharp {
