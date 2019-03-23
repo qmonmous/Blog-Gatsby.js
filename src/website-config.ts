@@ -32,7 +32,7 @@ const config: WebsiteConfig = {
   title: 'Quentin Monmousseau',
   description: 'A blog about Data Science, Cognitive Science (UX/UI) and Sports Science.',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: '',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   github: 'https://github.com/qmonmous',
