@@ -7,15 +7,13 @@ This is a static blog generator and starter gatsby repo. A port of [Casper](http
 Either disable subscribe or setup a mailchimp list and add the form action and hidden field input name.
 This repository contains my blog and articles made with [Gatsby.js](https://www.gatsbyjs.org/). It also includes Google Analytics.
 
-### Progress
+### To do
 - [x] emotion / component styles
 - [x] home page
 - [x] tag page
 - [x] author page
 - [x] blog page
-  - [x] subscribe form - using [mailchimp](https://mailchimp.com)
-  - [ ] full width images in markdown? - not sure if possible
-  - [ ] multiple post authors
+  - [ ] subscribe form - using [mailchimp](https://mailchimp.com)
   - [ ] floating reading progress bar
 - [x] 404 page
 - [x] subscribe modal/overlay
@@ -23,6 +21,7 @@ This repository contains my blog and articles made with [Gatsby.js](https://www.
 - [x] polish ✨
   - [x] meta tags
   - [x] page titles
+- [ ] manage social medias on author page
 
 
 ### Deploy to Netlify
