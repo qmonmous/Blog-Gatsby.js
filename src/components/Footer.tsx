@@ -74,12 +74,12 @@ const Footer: React.FunctionComponent = () => {
         </section>
         <SiteFooterNav>
           <Link to="/">Latest Posts</Link>
-          {config.facebook && (
+          {config.github && (
             <a href={config.github} target="_blank" rel="noopener noreferrer">
               Github
             </a>
           )}
-          {config.twitter && (
+          {config.linkedin && (
             <a href={config.linkedin} target="_blank" rel="noopener noreferrer">
               Linkedin
             </a>
