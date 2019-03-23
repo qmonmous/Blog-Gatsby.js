@@ -213,7 +213,7 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                 )}
                 {author.github && (
                   <a
-                    className="social-link-fb"
+                    className="social-link-tw"
                     css={SocialLink}
                     href={author.github}
                     title="Github"
@@ -225,7 +225,7 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                 )}
                 {author.linkedin && (
                   <a
-                    className="social-link-fb"
+                    className="social-link-tw"
                     css={SocialLink}
                     href={author.linkedin}
                     title="Linkedin"
