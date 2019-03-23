@@ -21,7 +21,7 @@ import {
   SocialLink,
 } from '../styles/shared';
 import { PageContext } from './post';
-import Facebook from '../components/icons/facebook';
+import Facebook from '../components/icons/github';
 import Helmet from 'react-helmet';
 import config from '../website-config';
 import Website from '../components/icons/website';
