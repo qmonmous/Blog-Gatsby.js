@@ -3,7 +3,7 @@ layout: post
 title: A deadlift guidance to find your variation
 author: Quentin Monmousseau
 tags: [Sports Science]
-image: img/blog-cover.jpg
+image: img/trapbar.jpg
 date: 2019-02-27T23:46:37.121Z
 draft: false
 ---
@@ -41,9 +41,14 @@ Block pulls are
 
 For a lot of lifters, trap bar is such a benediction. The overall movement pattern is still similar to a conventional deadlift but it allows for more flexibility in the movement.
 
+![Test Image](img/pull.jpg)
+
 Here are the main reasons why you should try and adopt Trap Bar deadlifts:
 - **easier to learn and safer for a lot of people**. The position is naturally better as the barbell is not in front of you. Moreover, most trap bars grips are raised so there is less ROM.
 - **stronger and safer grip**. Doesn’t require a mixed grip to be stronger, which is preferable as mixed grip tends to cause muscle imbalances and isn’t comfortable for beginners.
 - **allows for higher velocity and higher power output**, which tend to ease your progressive overload on the movement. This was corroborated in a 2016 study.
 
+![Small Test Image](img/pull.jpg)
+
 The only exception would be when choosing a movement to train terminal hip extension; where a (partial) Romanian deadlift might be a better option.
+
