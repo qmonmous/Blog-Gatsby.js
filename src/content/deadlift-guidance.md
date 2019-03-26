@@ -5,7 +5,7 @@ author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/trapbar.jpg
 date: 2019-02-27T23:46:37.121Z
-draft: false
+draft: true
 ---
 
 In this article, you'll discover the different variations of deadlift and why Trap Bar Deadlifts might be the best.
