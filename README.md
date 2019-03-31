@@ -1,34 +1,22 @@
 # Blog Gatsby.js
 
-You can find
+Check out my blog [here](https://quentin-monmousseau.netlify.com) !
 
-This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v2 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
+### Technos:
+- [Gatsby.js](https://www.gatsbyjs.org/)
+- Node.js
+- Typescript
 
-Either disable subscribe or setup a mailchimp list and add the form action and hidden field input name.
-This repository contains my blog and articles made with [Gatsby.js](https://www.gatsbyjs.org/). It also includes Google Analytics.
+### Features:
+- Google Analytics
+- Mailchimp (Either disable subscribe or setup a mailchimp list and add the form action and hidden field input name.)
 
-### To do
-- [x] emotion / component styles
-- [x] home page
-- [x] tag page
-- [x] author page
-- [x] blog page
-  - [ ] subscribe form - using [mailchimp](https://mailchimp.com)
-  - [ ] floating reading progress bar
-- [x] 404 page
-- [x] subscribe modal/overlay
-- [x] rss feed
-- [x] polish ✨
-  - [x] meta tags
-  - [x] page titles
-- [x] manage social medias on author page
+### To do:
+[x] add all social medias  
+[ ] subscribe form using [mailchimp](https://mailchimp.com)  
+[ ] floating reading progress bar
 
-
-### Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/scttcper/gatsby-casper)
-
-## How to configure Google Analytics
+### How to configure Google Analytics
 Edit `gatsby-config.js` and add your tracking ID
 
 
@@ -51,16 +39,5 @@ Edit `gatsby-config.js` and add your tracking ID
       // Determines how often site speed tracking beacons will be sent
       siteSpeedSampleRate: 10,
     },
-  },
-```
-
-## How to edit your site title and description 
-Edit `gatsby-config.js` section `siteMetadata`
-
-```javascript
- siteMetadata: {
-    title: 'My awesome site name',
-    description: 'This is a description for my site',
-    siteUrl: 'https://mysite.com', // full path to blog - no ending slash
   },
 ```

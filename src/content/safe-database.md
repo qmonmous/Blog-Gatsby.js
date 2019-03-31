@@ -11,3 +11,4 @@ draft: false
 - **Orienté colonnes :** rapide pour exécuter des calculs statistiques
 - **Orienté lignes :** rapide pour récupérer des identifiants
 - **Orienté documents :**  
+

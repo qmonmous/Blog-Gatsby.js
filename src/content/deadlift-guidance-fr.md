@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A deadlift guidance to find your variation
+title: "Trap Bar Deadlift, ce que dit la science"
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/trapbar.jpg
@@ -8,11 +8,13 @@ date: 2019-02-27T23:46:37.121Z
 draft: false
 ---
 
+Pierre angulaire de la préparation physique, le deadlift possède de nombreuses variations. L'une des elle, très peu utilisée, pourrait bien se révéler être la meilleure : le Trap Bar Deadlift.
+
 In this article, you'll discover the different variations of deadlift and why Trap Bar Deadlifts might be the best.
 
 ### What is deadlift
 
-Deadlift is one of the three main lifting exercises (with squat and bench press). It is a very efficient exercise that allows you to strengthen your lower-body, *erector spinae* muscles, core, and grip.
+Deadlift is one of the three main lifting exercises (with squat and bench press). It is a very efficient exercise that allows you to strengthen your lower-body, *erector spinae* muscle groups, core, and grip.
 
 ## I. Conventional, Sumo and Romanian Deadlifts
 
