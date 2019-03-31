@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Quentin Monmousseau',
-    description: 'A blog about Data Science, Cognitive Science (UX/UI) and Sports Science.',
+    description: 'A blog about Data, Cognitive and Sports Science',
     siteUrl: 'https://quentin-monmousseau.netlify.com', // full path to blog - no ending slash
   },
   mapping: {
