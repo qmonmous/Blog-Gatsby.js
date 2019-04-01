@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Trap Bar Deadlift might be a game-changer (research) #A deadlift guidance to find your variation
+title: What science says about Trap Bar Deadlift #A deadlift guidance to find your variation
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/trapbar.jpg
