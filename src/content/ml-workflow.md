@@ -45,8 +45,8 @@ In supervised Machine Learning, we want to build a model capable of predicting a
 *Note: When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't. In this case, we will talk about **unsupervised learning**. We will run **clustering algorithms** to find patterns in data and build groups.*
 
 <a id="one-a"></a>
-### a. Loading the data  
-  
+### a. Loading the data
+<br><br>
 ```python
 #import the essential libraries we'll need to build an effective model
 import os
