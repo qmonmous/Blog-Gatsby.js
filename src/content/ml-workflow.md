@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An introduction to Machine Learning by the workflow
+title: An introduction to supervised Machine Learning by the workflow
 author: Quentin Monmousseau
 tags: [Data Science]
 image: img/brain.jpg
@@ -48,11 +48,14 @@ Also, be aware that some bullets points highlighted below imply a basic understa
 
 <a id="one-a"></a>
 ### a. Loading the data
-The very first step is to import essential libraries.
+
+In supervised Machine Learning, we want to build a model capable of predicting a variable called the **target** thanks to the others, called the **features**. To train this model, we need data. We will use *pandas library* to store them is a *dataframe* so we can process them easily.
+
+*Note: When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't. In this case, we will talk about **unsupervised learning**. We will run **clustering algorithms** to find patterns in data and build groups.*
 
 ```python
+#import the essential libraries we'll need to build an effective model
 import os
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -61,8 +64,6 @@ import seaborn as sns
 %matplotlib inline
 ```
 
-Now we load the data.
-
 ```python
 FILEPATH = os.path.join('data', 'dataset.csv')
 
@@ -70,7 +71,7 @@ df = pd.read_csv(FILEPATH, index_col=0)
 df.head(2)
 ```
 
-| Variable 1     | Variable 2     | Variable 3     |
+| Feature 1      | Feature 2      | Target         |
 | :------------: | :------------: | :------------: |
 | Division 1     | Division 2     | Division 3     |
 | Division 1     | Division 2     | Division 3     |
@@ -79,24 +80,15 @@ df.head(2)
 <a id="one-b"></a>
 ### b. Overview
 
-First of all, we want to know what kind of values we will try to predict. This will tell us what kind of algorithms use to build the prediction model. Targets can be:
+Now that we loaded our dataframe, let's try to understand the problem.
+
+**What do we want to predict?**
+
+Excluding **neural networks**, there are 2 kind of algorithms in supervised learning: **classification** and **regression**. If the target is **categorical**, we will 
 - **categorical** (qualitative) : who/what/what kind  
 - **numerical** (quantitative) : how much 
 
-When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't, then we talk about **unsupervised learning** ; the model will try to find patterns in the data to build groups.
-
-Excluding **neural networks**, there are 3 big types of ML algorithms:  
-
-When supervised learning:  
-- **classification** for categorical targets.  
-- **regression** for numerical targets.  
-
-When unsupervised learning:  
-- **clustering** that will build clusters for us.
-
-In Machine Learning, we want to build a model capable of predicting one of these variables (called the target) thanks to the others (called the features). Here, our target will be variable3 and our features to do it variable1 and 2. We say that our model has currently two dimensions (i.e. two features).
-
-*In our example, the target is provided so our model will learn from its values. We want to predict a numerical target so we will use regression algorithms.*
+---
 
 <a id="two"></a>
 ## II. Data cleaning
@@ -154,6 +146,8 @@ df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
 
 ```
 
+---
+
 ## III. Features engineering
 - Transformations
   - Categorical data: One-hot encoding, 
@@ -163,6 +157,7 @@ df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
 
 Une fois les variables catégorielles encodées, on peut faire une matrice de corrélation (de Pearson). Par soucis de performance en terme de vitesse d'execution, il est recommandé de réduire au maximum le nombre de features. Dans ce cas, on conservera des features fortement corréllées à la target et très peu entre elles pour apporter chacune des informations intéressantes.
 
+---
 
 ## IV.
 
