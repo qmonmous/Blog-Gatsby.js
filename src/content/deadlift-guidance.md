@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A deadlift guidance to find your variation
+title: Why Trap Bar Deadlift might be a game-changer (research) #A deadlift guidance to find your variation
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/trapbar.jpg
-date: 2019-02-27T23:46:37.121Z
+date: 2019-03-05T23:46:37.121Z
 draft: false
 ---
 
@@ -43,12 +43,13 @@ For a lot of lifters, trap bar is such a benediction. The overall movement patte
 
 ![Test Image](img/pull.jpg)
 
-Here are the main reasons why you should try and adopt Trap Bar deadlifts:
+Here are the main reasons why you should at least try out Trap Bar deadlifts:
 - **easier to learn and safer for a lot of people**. The position is naturally better as the barbell is not in front of you. Moreover, most trap bars grips are raised so there is less ROM.
 - **stronger and safer grip**. Doesn’t require a mixed grip to be stronger, which is preferable as mixed grip tends to cause muscle imbalances and isn’t comfortable for beginners.
 - **allows for higher velocity and higher power output**, which tend to ease your progressive overload on the movement. This was corroborated in a 2016 study.
 
 ![Small Test Image](img/pull.jpg)
 
-The only exception would be when choosing a movement to train terminal hip extension; where a (partial) Romanian deadlift might be a better option.
-
+## Exceptions
+- If you want to focus on your hamstrings and train your terminal hip extension; a (partial) Romanian deadlift might be a better option.
+- If you want to compete in powerlifting competitions, you'll need to perform with a traditional barbell.
