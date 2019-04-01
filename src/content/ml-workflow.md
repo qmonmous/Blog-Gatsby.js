@@ -39,6 +39,8 @@ Here are the different steps we are going to go through:
 
 **[VI. Training and predictions](#six)**
 
+---
+
 <a id="one"></a>
 ## I. Data loading and overview
 

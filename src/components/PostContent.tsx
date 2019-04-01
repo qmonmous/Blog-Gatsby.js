@@ -311,7 +311,7 @@ export const PostFullContent = styled.section`
   table {
     display: inline-block;
     overflow-x: auto;
-    margin: 0.5em 0 2.5em;
+    margin: 0.5em 0 0.5em;
     max-width: 100%;
     width: auto;
     border-spacing: 0;
