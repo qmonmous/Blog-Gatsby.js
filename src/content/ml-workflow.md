@@ -69,14 +69,21 @@ FILEPATH = os.path.join('data', 'dataset.csv')
 df = pd.read_csv(FILEPATH, index_col=0)
 df.head(2)
 ```
+
+| Variable 1     | Variable 2     | Variable 3     |
+| :------------: | :------------: | :------------: |
+| Division 1     | Division 2     | Division 3     |
+| Division 1     | Division 2     | Division 3     |
+| Division 1     | Division 2     | Division 3     |
+
 <a id="one-b"></a>
 ### b. Overview
 
-In Machine Learning, we want to build a model capable of predicting one of these variables (called the target) thanks to the others (called the features). Here, our target will be variable3 and our features to do it variable1 and 2. We say that our model has currently two dimensions (i.e. two features).
+First of all, we want to know what kind of values we will try to predict. This will tell us what kind of algorithms use to build the prediction model. Targets can be:
+- **categorical** (qualitative) : who/what/what kind  
+- **numerical** (quantitative) : how much 
 
-First of all, we want to know what kind of values we have to predict. This will tell us what kind of algorithms use to build our model. When target values are provided (i.e. labeled data), we talk about supervised learning. When there aren't, we talk about unsupervised learning. Targets can be:
-- **categoricals** (qualitative) : who/what/what kind  
-- **numericals** (quantitative) : how much 
+When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't, then we talk about **unsupervised learning** ; the model will try to find patterns in the data to build groups.
 
 Excluding **neural networks**, there are 3 big types of ML algorithms:  
 
@@ -87,7 +94,9 @@ When supervised learning:
 When unsupervised learning:  
 - **clustering** that will build clusters for us.
 
-In our example, the target is provided so our model will learn from its values. We want to predict a numerical target so we will use regression algorithms.
+In Machine Learning, we want to build a model capable of predicting one of these variables (called the target) thanks to the others (called the features). Here, our target will be variable3 and our features to do it variable1 and 2. We say that our model has currently two dimensions (i.e. two features).
+
+*In our example, the target is provided so our model will learn from its values. We want to predict a numerical target so we will use regression algorithms.*
 
 <a id="two"></a>
 ## II. Data cleaning
@@ -131,7 +140,7 @@ df.boxplot();
 - data points that fall outside of 1,5*IQR above the 3rd quartile and below the 1st quartile.
 - data points that fall outside of 3 standard deviations, using z-score.
 
-Once again keep in mind that it won't work for every data. Let's say we have minimum values of 0. Using IQR would remove them. Now what if we are working on a number of trips? People who have never traveled won't be legit outliers for sure. Try to stick to the context while removing outliers.
+Once again keep in mind that it won't work for every data. Let's say we have minimum values of 0. Using IQR would remove them. Now, what if we are working on a number of trips? People who have never traveled won't be legit outliers for sure. Try to stick to the context while removing outliers.
 
 ```python
 #Delete univariate outliers using sigma-clipping operations
@@ -147,7 +156,7 @@ df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
 
 ## III. Features engineering
 - Transformations
-  - Categorical datas: One-hot encoding, 
+  - Categorical data: One-hot encoding, 
   - Standardization
 - Features creations and deletions
 - Dimensional reductions
@@ -165,7 +174,7 @@ b. Metrics/Loss function
 - **MSE (Mean Squared Error)**:
 
 - **accuracy score**:
-Using accuracy as a performance measure for highly imbalanced datasets is not a good idea. For example, if 90% points belong to the true class in a binary classification problem, a default prediction of true for all data poimts leads to a classifier which is 90% accurate, even though the classifier has not learnt anything about the classification problem at hand!
+Using accuracy as a performance measure for highly imbalanced datasets is not a good idea. For example, if 90% points belong to the true class in a binary classification problem, a default prediction of true for all data points leads to a classifier which is 90% accurate, even though the classifier has not learned anything about the classification problem at hand!
 
 - **Precision Recall**:
 
