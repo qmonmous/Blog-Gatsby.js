@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A deadlift guidance to find your variation
+title: Introduction to Natural Language Processing by the example
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/neural.jpg
