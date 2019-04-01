@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An introduction to supervised Machine Learning by the workflow
+title: An introduction to (supervised) Machine Learning by the workflow
 author: Quentin Monmousseau
 tags: [Data Science]
 image: img/brain.jpg

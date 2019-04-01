@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Natural Language Processing by the example
+title: An introduction to Natural Language Processing (NLP) by the example
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/neural.jpg
