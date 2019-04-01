@@ -25,7 +25,7 @@ const PostCardStyles = css`
   :hover {
     box-shadow: rgba(39, 44, 49, 0.07) 8px 28px 50px, rgba(39, 44, 49, 0.04) 1px 6px 12px;
     transition: all 0.4s ease;
-    transform: translate3D(0, -1px, 0) scale(1);
+    transform: translate3D(0, -1px, 0) scale(1.01);
   }
 `;
 
