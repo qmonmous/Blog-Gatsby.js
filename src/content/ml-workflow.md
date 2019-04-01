@@ -8,7 +8,7 @@ date: 2019-03-02T23:46:37.121Z
 draft: false
 ---
 
-In this article, we are going to see how you should organize your machine learning workflow. It also includes some examples using python's libraries.
+*In this article, we are going to see how you should organize your machine learning workflow. It also includes some examples using python's libraries.*
 
 ---
 
