@@ -40,7 +40,7 @@ Here are the different steps we are going to go through:
 **[VI. Training and predictions](#six)**
 
 <a id="one"></a>
-## I. Data loading and overview<br><br>
+## I. Data loading and overview
 
 In supervised Machine Learning, we want to build a model capable of predicting a variable called the **target** thanks to the others, called the **features**. To train this model, we need data. We will use *pandas library* to store them is a *dataframe* so we can process them easily.
 
