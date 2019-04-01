@@ -241,7 +241,7 @@ export const PostFullContent = styled.section`
   }
 
   h2 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.5em 0 0.5em 0;
     font-size: 3.4rem;
     font-weight: 700;
   }
@@ -252,7 +252,7 @@ export const PostFullContent = styled.section`
   }
 
   h3 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 0.5em 0 0.5em 0;
     font-size: 2.6rem;
     font-weight: 700;
   }
