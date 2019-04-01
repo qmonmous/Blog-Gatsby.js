@@ -10,9 +10,10 @@ draft: false
 
 In this article, we are going to see how you should organize your machine learning workflow. It also includes some examples using python's libraries.
 
-Here are the different steps we are going to go through.
+Before starting, you need to set up your developing environment. If you didn’t, please follow this easy tutorial to get started.
+Also, be aware that some bullets points highlighted below imply a basic understanding of different mathematics concepts. I highly recommend you read/keep aside this article on Statistics Basics if you are not confident with mathematics.
 
-**[Intro. Requirements](#zero)**
+Here are the different steps we are going to go through.
 
 **[I. Data loading and overview](#one)**
 - [a. Loading the data](#one-a)
@@ -29,29 +30,22 @@ Here are the different steps we are going to go through.
 
 **[IV. Model selection](#four)**
 - Split
-- Metrics/Loss function
-- Models stability (Cross-Validation)
-- Check over/underfit
+- Metrics/Loss function selection
+- Model validation
 
 **[V. Hyperparameters tuning](#five)**
 
 **[VI. Training and predictions](#six)**
 
-<a id="zero"></a>
-## Intro. Requirements
-
-Before starting, you need to set up your developing environment. If you didn’t, please follow this easy tutorial to get started.
-Also, be aware that some bullets points highlighted below imply a basic understanding of different mathematics concepts. I highly recommend you read/keep aside this article on Statistics Basics if you are not confident with mathematics.
-
 <a id="one"></a>
 ## I. Data loading and overview
-
-<a id="one-a"></a>
-### a. Loading the data
 
 In supervised Machine Learning, we want to build a model capable of predicting a variable called the **target** thanks to the others, called the **features**. To train this model, we need data. We will use *pandas library* to store them is a *dataframe* so we can process them easily.
 
 *Note: When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't. In this case, we will talk about **unsupervised learning**. We will run **clustering algorithms** to find patterns in data and build groups.*
+
+<a id="one-a"></a>
+### a. Loading the data
 
 ```python
 #import the essential libraries we'll need to build an effective model
@@ -67,6 +61,7 @@ import seaborn as sns
 ```python
 FILEPATH = os.path.join('data', 'dataset.csv')
 
+#Store the data from CSV to a pandas dataframe
 df = pd.read_csv(FILEPATH, index_col=0)
 df.head(2)
 ```
