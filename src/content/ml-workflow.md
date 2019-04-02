@@ -3,7 +3,7 @@ layout: post
 title: An introduction to (supervised) Machine Learning by the workflow
 author: Quentin Monmousseau
 tags: [Data Science]
-image: img/brain.jpg
+image: img/ml.png
 date: 2019-03-02T23:46:37.121Z
 draft: false
 ---
@@ -46,7 +46,7 @@ Here are the different steps we are going to go through:
 
 In supervised Machine Learning, we want to build a model capable of predicting a variable called the <mark>**target**</mark> thanks to the others, called the <mark>**features**</mark>. To train this model, we need data. We will use *pandas library* to store them is a *dataframe* so we can process them easily.
 
-> Note: When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes there aren't. In this case, we will talk about **unsupervised learning**. We will run **clustering algorithms** to find patterns in data and build groups.
+> Note: When target values are provided (i.e. data are labeled), we talk about **supervised learning**. But sometimes they aren't. In this case, we talk about **unsupervised learning**. We will run **clustering** algorithms designed to be self-determined and capable of building groups by finding statistical properties patterns between the records.
 
 <a id="one-a"></a>
 ### a. Loading the data

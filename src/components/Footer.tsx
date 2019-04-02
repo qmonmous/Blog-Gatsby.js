@@ -74,9 +74,9 @@ const Footer: React.FunctionComponent = () => {
         </section>
         <SiteFooterNav>
           <Link to="/">Latest Posts</Link>
-          {config.github && (
-            <a href={config.github} target="_blank" rel="noopener noreferrer">
-              Github
+          {config.twitter && (
+            <a href={config.twitter} target="_blank" rel="noopener noreferrer">
+              Twitter
             </a>
           )}
           {config.linkedin && (
@@ -84,13 +84,18 @@ const Footer: React.FunctionComponent = () => {
               Linkedin
             </a>
           )}
-          {config.twitter && (
-            <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-              Twitter
+          {config.github && (
+            <a href={config.github} target="_blank" rel="noopener noreferrer">
+              Github
+            </a>
+          )}
+          {config.github && (
+            <a href="www.deerzign.com" target="_blank" rel="noopener noreferrer">
+              Deerzign
             </a>
           )}
 
-          <a href="/rss.xml">RSS</a>
+          {/* <a href="/rss.xml">RSS</a> */}
         </SiteFooterNav>
       </div>
     </footer>
