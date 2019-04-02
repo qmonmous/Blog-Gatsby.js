@@ -3,7 +3,7 @@ layout: post
 title: What science says about Trap Bar Deadlift #A deadlift guidance to find your variation
 author: Quentin Monmousseau
 tags: [Sports Science]
-image: img/trapbar.jpg
+image: img/trap.jpg
 date: 2019-03-05T23:46:37.121Z
 draft: false
 ---
@@ -53,3 +53,7 @@ Here are the main reasons why you should at least try out Trap Bar deadlifts:
 ## Exceptions
 - If you want to focus on your hamstrings and train your terminal hip extension; a (partial) Romanian deadlift might be a better option.
 - If you want to compete in powerlifting competitions, you'll need to perform with a traditional barbell.
+
+
+
+proven to be easier to initalize the movement with your quads, which - if you didn't - will eventually allow you to lift more.
