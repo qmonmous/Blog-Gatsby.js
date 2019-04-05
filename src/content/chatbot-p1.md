@@ -5,7 +5,7 @@ author: Quentin Monmousseau
 tags: [Data Science, Cognitive Science]
 image: img/chatbot1.png
 date: 2019-03-29T23:46:37.121Z
-draft: false
+draft: true
 ---
 
 ## What is NLP?

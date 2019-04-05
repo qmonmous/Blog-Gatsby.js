@@ -8,7 +8,9 @@ date: 2019-03-05T23:46:37.121Z
 draft: false
 ---
 
-In this article, you'll discover the different variations of deadlift and why Trap Bar Deadlifts might be the best.
+*In this article, you'll discover the different variations of deadlift and why Trap Bar Deadlifts might be the best.*
+
+---
 
 ### What is deadlift
 
