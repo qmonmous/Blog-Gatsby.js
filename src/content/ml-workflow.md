@@ -72,9 +72,9 @@ df.head(2)
 
 | Feature 1      | Feature 2      | Target         |
 | :------------: | :------------: | :------------: |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
+| 10             | 20             | 35             |
+| 20             | 30             | 5              |
+| 15             | 10             | 20             |
 
 <a id="one-b"></a>
 ### b. Overview
