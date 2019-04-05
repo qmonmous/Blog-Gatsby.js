@@ -90,7 +90,7 @@ const Footer: React.FunctionComponent = () => {
             </a>
           )}
           {config.github && (
-            <a href="www.deerzign.com" target="_blank" rel="noopener noreferrer">
+            <a href={config.website} target="_blank" rel="noopener noreferrer">
               Deerzign
             </a>
           )}
