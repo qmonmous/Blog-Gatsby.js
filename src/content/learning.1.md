@@ -60,6 +60,10 @@ TODO: The power of repetition and constancy
 > Mens sana in corpore sano
 
 TODO.
+**Sleep:**
+A recent research conducted by   ?    shows that sleeping less than 
+**Alimentation:**
+**Sports:** Free your mind, improve blood circulation and have a better overall mind 
 
 ---
 
@@ -91,4 +95,4 @@ That's why I would advice any people willing to trully get a concept to build so
 
 ---
 
-*Cheatsheet: [Improve your way to learn](github.io/qmonmous)*
+*Cheatsheet: [Improve your way to learn](https://github.io/qmonmous)*
