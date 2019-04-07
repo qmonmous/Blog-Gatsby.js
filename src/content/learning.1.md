@@ -12,13 +12,30 @@ draft: false
 
 ---
 
+**[I. No you're not too old](#one)**
+
+**[II. Defeat procrastination](#two)**
+
+**[III. The power of repetition and constancy](#three)**
+
+**[IV. The impact of your lifestyle](#four)**
+
+**[V. Try out!](#five)**
+- Intelligence in the big data and web era
+- Focus on understanding the concepts...
+- ...but try to implement in a little project and assess your knowledge
+
+---
+
 We are living in a constantly changing world. In this moving environment, the need to learn fast and efficiently becomes more and more obvious. When it comes to Data Science or Software Engineering, for example, big concepts remain but technologies are evolving so fast that you have no choice but to constantly update your knowledge.
 
 So I wanted to learn more about... how to learn. I fortunately found a great course given by *Barbara Oakley* from Oakland University and *Terry Sejnowski* from the Computational Neurobiology Laboratory of Salk Institute. The course provides keys to understand the different learning processes and how cognitive and neuroscience findings can help you to hack your way to learn. Interested? Let's deep dive in your brain.
 
+
 ## I. No you're not too old
 
 There are a million billion synapses in your brain where memories are stored. The old view of the brain is that once it matures, the strengths of synapses can be adjusted by learning, but the pattern of connectivity does not change much unless there is brain damage. That's why you probably eard a lot of people saying that they were too old to learn something new. But now we know that **brain connectivity is and remains dynamic** - even after it matures -, so it's never too late.
+
 
 ## II. Defeat procrastination
 
@@ -36,6 +53,7 @@ Think of your neural structure like your muscle mass. If you plan to grow and bu
 
 Coming soon.
 
+
 ## V. Try out!
 
 ### Intelligence in the big data and web era
@@ -52,10 +70,10 @@ Let's going through why you should:
 
 I think you should focus on understanding concepts first. The idea is to get that transversal knowledge that can scale to any tool. 
 
-### ... but try to implement in a little project and assess your knowledge
+### ...but try to implement in a little project and assess your knowledge
 
 But it is also so interesting to learn with a tool, as you can try to implement what you're learning in a little project so you can assess your knowledge and show the world your way to use it, embellishing it thanks to your personal background.
 
-It's often difficult for some people to get the idea behind mathematic concepts. The main reason why is that most of these concepts are abstract. Moreover, we cannot experience it like we would to understand love or pain for example. That's why I would advice any people willing to trully get a concept to build something with it. And if you managed to build something, **try to write a little documentation to explain it and its underslying concepts**. It's often a good way to make sure you understood what you made!
+It's often difficult for some people to get the idea behind mathematic concepts. The main reason why is that most of these concepts are abstract. Moreover, we cannot experience it like we would to understand love or pain for example. That's why I would advice any people willing to trully get a concept to build something with it. And if you managed to build something, **try to write a little documentation to explain it and its underlying concepts**. It's often a good way to make sure you understood what you made!
 
 > Whatever is well conceived is clearly said, And the words to say it flow with ease. – Nicolas Boileau
