@@ -16,10 +16,7 @@ draft: false
 **[II. Defeat procrastination](#two)**  
 **[III. The power of repetition and constancy](#three)**  
 **[IV. The impact of your lifestyle](#four)**  
-**[V. Try out!](#five)**  
-- Intelligence in the big data and web era
-- Focus on understanding the concepts...
-- ...but try to implement in a little project and assess your knowledge
+**[V. Try out!](#five)**  - Intelligence in the big data and web era  - Focus on understanding the concepts...  - ...but try to implement in a little project and assess your knowledge
 
 ---
 
@@ -77,3 +74,7 @@ But it is also so interesting to learn with a tool, as you can try to implement 
 It's often difficult for some people to get the idea behind mathematic concepts. The main reason why is that most of these concepts are abstract. Moreover, we cannot experience it like we would to understand love or pain for example. That's why I would advice any people willing to trully get a concept to build something with it. And if you managed to build something, **try to write a little documentation to explain it and its underlying concepts**. It's often a good way to make sure you understood what you made!
 
 > Whatever is well conceived is clearly said, And the words to say it flow with ease. – Nicolas Boileau
+
+---
+
+*Cheatseet: [Improve your way to learn](github.io/qmonmous)*
