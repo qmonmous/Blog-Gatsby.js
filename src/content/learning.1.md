@@ -12,15 +12,11 @@ draft: false
 
 ---
 
-**[I. No you're not too old](#one)**
-
-**[II. Defeat procrastination](#two)**
-
-**[III. The power of repetition and constancy](#three)**
-
-**[IV. The impact of your lifestyle](#four)**
-
-**[V. Try out!](#five)**
+**[I. No you're not too old](#one)**  
+**[II. Defeat procrastination](#two)**  
+**[III. The power of repetition and constancy](#three)**  
+**[IV. The impact of your lifestyle](#four)**  
+**[V. Try out!](#five)**  
 - Intelligence in the big data and web era
 - Focus on understanding the concepts...
 - ...but try to implement in a little project and assess your knowledge
@@ -36,16 +32,19 @@ So I wanted to learn more about... how to learn. I fortunately found a great cou
 
 There are a million billion synapses in your brain where memories are stored. The old view of the brain is that once it matures, the strengths of synapses can be adjusted by learning, but the pattern of connectivity does not change much unless there is brain damage. That's why you probably eard a lot of people saying that they were too old to learn something new. But now we know that **brain connectivity is and remains dynamic** - even after it matures -, so it's never too late.
 
+---
 
 ## II. Defeat procrastination
 
 Coming soon: Area of pain, Pomodoro technique.
 
+---
 
 ## III. The power of repetition and constancy
 
 Think of your neural structure like your muscle mass. If you plan to grow and build an athletic body, working out for ten hours once a month won't work well. Building muscle mass requires short and effective workout every day, allowing you to learn motion patterns and to gradually overload your sessions. So building an effective neural structure requires this little work every day to build an appetite for learning, and to gradually get better at what you're studying.
 
+---
 
 ## IV. The impact of your lifestyle
 
@@ -53,6 +52,7 @@ Think of your neural structure like your muscle mass. If you plan to grow and bu
 
 Coming soon.
 
+---
 
 ## V. Try out!
 
