@@ -13,8 +13,12 @@ draft: false
 ---
 
 **[I. Get started](#one)**  
+[• No you're not too old](#two-one)  
+[• Hack your brain](#two-one)  
 
 **[II. Body analogy](#two)**  
+[• Brain behaves as a muscle](#two-one)  
+[• Sleep and nutrition](#two-one)  
 
 **[III. Try out!](#three)**  
 [• Intelligence in the big data and web era](#three-one)  
@@ -35,8 +39,6 @@ So I wanted to learn more about... how to learn. I fortunately found a great cou
 
 There are a million billion synapses in your brain where memories are stored. The old view of the brain is that once it matures, the strengths of synapses can be adjusted by learning, but the pattern of connectivity does not change much unless there is brain damage. That's why you probably eard a lot of people saying that they were too old to learn something new. But now we know that **brain connectivity is and remains dynamic** - even after it matures -, so it's never too late.
 
----
-
 ### Hack your brain
 
 TODO
@@ -47,11 +49,11 @@ Solution: Pomodoro technique
 
 ## II. Body analogy
 
+### Brain behaves as a muscle
+
 Think of your neural structure like your muscle mass. If you plan to grow and build an athletic body, working out for ten hours once a month won't work well. Building muscle mass requires short and effective workout every day, allowing you to learn motion patterns and to gradually overload your sessions. So building an effective neural structure requires this little work every day to build an appetite for learning, and to gradually get better at what you're studying.
 
-### The power of repetition and constancy
-
-TODO.
+TODO: The power of repetition and constancy
 
 ### Sleep and Nutrition
 
@@ -84,7 +86,8 @@ It is also very interesting to learn with a tool, as you can try to implement wh
 
 That's why I would advice any people willing to trully get a concept to build something with it. And if you managed to build something, **try to write a little documentation to explain it and its underlying concepts**. It's often a good way to make sure you understood what you made!
 
-> Whatever is well conceived is clearly said, And the words to say it flow with ease. – Nicolas Boileau
+> Whatever is well conceived is clearly said, And the words to say it flow with ease.  
+> – Nicolas Boileau
 
 ---
 
