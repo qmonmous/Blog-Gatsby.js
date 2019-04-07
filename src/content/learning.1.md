@@ -13,10 +13,17 @@ draft: false
 ---
 
 **[I. No you're not too old](#one)**  
+
 **[II. Defeat procrastination](#two)**  
+
 **[III. The power of repetition and constancy](#three)**  
-**[IV. The impact of your lifestyle](#four)**  
-**[V. Try out!](#five)**  - Intelligence in the big data and web era  - Focus on understanding the concepts...  - ...but try to implement in a little project and assess your knowledge
+
+**[IV. The impact of your lifestyle](#four)**
+
+**[V. Try out!](#five)**  
+• Intelligence in the big data and web era  
+• Focus on understanding the concepts...  
+• ...but try to implement in a little project and assess your knowledge
 
 ---
 
