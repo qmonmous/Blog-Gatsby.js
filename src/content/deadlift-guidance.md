@@ -59,3 +59,9 @@ Here are the main reasons why you should at least try out Trap Bar deadlifts:
 
 
 proven to be easier to initalize the movement with your quads, which - if you didn't - will eventually allow you to lift more.
+
+
+
+*[Subjects were able to lift a heavier 1RM load in the hexagonal barbell deadlift (HBD) than the straight barbell deadlift (SBD) (265 ± 41 kg vs. 245 ± 39 kg, with a p-value under 0.05)](https://www.ncbi.nlm.nih.gov/pubmed/21659894)*.
+
+Subjects were able to lift a heavier 1RM load in the hexagonal barbell deadlift (HBD) than the straight barbell deadlift (SBD) *[(265 ± 41 kg vs. 245 ± 39 kg, with a p-value under 0.05)](https://www.ncbi.nlm.nih.gov/pubmed/21659894)*.
