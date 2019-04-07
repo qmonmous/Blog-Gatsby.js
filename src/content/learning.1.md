@@ -38,7 +38,7 @@ Coming soon.
 
 ## V. Try out!
 
-## Intelligence in the big data and web era
+### Intelligence in the big data and web era
 
 I tried to figure out what definition we could give to intelligence in an era of fully available data and knowledge.
 In my opinion, we could think modern human intelligence as your own knowledge plus your ability to find out how to solve a problem on Google in let's say... 30 seconds. So learning how to learn is necessary, but you'd also better learn how to make researches to take advantage of the massive and increasing knowledge available online.
@@ -52,11 +52,9 @@ Let's going through why you should:
 
 I think you should focus on understanding concepts first. The idea is to get that transversal knowledge that can scale to any tool. 
 
-### ... but try to implement in a little project
+### ... but try to implement in a little project and assess your knowledge
 
 But it is also so interesting to learn with a tool, as you can try to implement what you're learning in a little project so you can assess your knowledge and show the world your way to use it, embellishing it thanks to your personal background.
-
-### Why should you use a tool/project to assess what you are learning
 
 It's often difficult for some people to get the idea behind mathematic concepts. The main reason why is that most of these concepts are abstract. Moreover, we cannot experience it like we would to understand love or pain for example. That's why I would advice any people willing to trully get a concept to build something with it. And if you managed to build something, **try to write a little documentation to explain it and its underslying concepts**. It's often a good way to make sure you understood what you made!
 
