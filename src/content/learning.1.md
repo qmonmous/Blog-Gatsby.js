@@ -13,17 +13,17 @@ draft: false
 ---
 
 **[I. Get started](#one)**  
-[• No you're not too old](#two-one)  
-[• Hack your brain](#two-one)  
+[• A. No you're not too old](#two-one)  
+[• B. Hack your brain](#two-one)  
 
 **[II. Body analogy](#two)**  
-[• Brain behaves as a muscle](#two-one)  
-[• Sleep and nutrition](#two-one)  
+[• a. Brain behaves as a muscle](#two-one)  
+[• b. Sleep and nutrition](#two-one)  
 
 **[III. Try out!](#three)**  
-[• Intelligence in the big data and web era](#three-one)  
-[• Focus on understanding the concepts...](#three-two)  
-[• ...but try to implement in a little project and assess your knowledge](#three-three)
+[• a. Intelligence in the big data and web era](#three-one)  
+[• b. Focus on understanding the concepts...](#three-two)  
+[• c. ...but try to implement in a little project and assess your knowledge](#three-three)
 
 ---
 
@@ -35,11 +35,11 @@ So I wanted to learn more about... how to learn. I fortunately found a great cou
 
 ## I. Get started
 
-### No you're not too old
+### A. No you're not too old
 
 There are a million billion synapses in your brain where memories are stored. The old view of the brain is that once it matures, the strengths of synapses can be adjusted by learning, but the pattern of connectivity does not change much unless there is brain damage. That's why you probably eard a lot of people saying that they were too old to learn something new. But now we know that **brain connectivity is and remains dynamic** - even after it matures -, so it's never too late.
 
-### Hack your brain
+### b. Hack your brain
 
 TODO
 Pb: Area of pain
@@ -54,6 +54,12 @@ Solution: Pomodoro technique
 Think of your neural structure like your muscle mass. If you plan to grow and build an athletic body, working out for ten hours once a month won't work well. Building muscle mass requires short and effective workout every day, allowing you to learn motion patterns and to gradually overload your sessions. So building an effective neural structure requires this little work every day to build an appetite for learning, and to gradually get better at what you're studying.
 
 TODO: The power of repetition and constancy
+///
+When you're learning, what you want to do is study something. Study it hard by focusing intently. Then take a break or at least change your focus to something different for awhile. During this time of seeming relaxation, your brain's diffuse mode has a chance to work away in the background and help you out with your conceptual understanding. Your, your neural mortar in some sense has a chance to dry. If you don't do this, if instead you learn by cramming, your knowledge base will look more like this, all in a jumble with everything confused, a poor foundation. If you have problems with procrastination, that's when you want to use the Pomodoro, that brief timer.
+
+**Better learn with spaced repetitions**
+Research has shown that if you try to glue things into your memory by repeating something 20 times in one evening for example, it won't stick nearly as well as if you practice it the same number of times over several days. If you don't leave time for the mortar to dry, that is time for the synoptic connections to form and strengthen, you won't have a very good structure.
+///
 
 ### Sleep and Nutrition
 
@@ -62,8 +68,10 @@ TODO: The power of repetition and constancy
 TODO.
 **Sleep:**
 A recent research conducted by   ?    shows that sleeping less than 
+
 **Alimentation:**
 **Sports:** Free your mind, improve blood circulation and have a better overall mind 
+> I find that when I'm jogging, or out getting exercise, that it's a wonderful way to get the mind disengaged, from the normal train of thought. And I find that it's very very possible to to sort of come up with new thoughts, new ideas. And it's almost as if your brain goes into a new mode, you're running along, things are passing you by. And you start thinking about what's happening. For example, things that, that your brain has been working on, your out of conscious thoughts bubble to the surface. And often new ideas that are going to be then helpful to you later on. The only problem I have is remembering all those great ideas. Because when I get back and take a shower, then a lot of them have evaporated. And that's why I, I like to take a little notebook along with me, so I can take notes and remember what it is that I was thinking about.
 
 ---
 
