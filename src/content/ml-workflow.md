@@ -17,20 +17,20 @@ Also, be aware that some bullets points highlighted below imply a basic understa
 
 Here are the different steps we are going to go through:
 
-**[I. Data loading and overview](#one)**
+**[I. Data loading and overview](#one)**  
 [• a. Loading the data](#one-a)  
 [• b. Overview](#one-b)
 
-**[II. Data cleaning](#two)**
+**[II. Data cleaning](#two)**  
 [• a. Duplicated and missing values](#two-a)  
 [• b. Deal with outliers](#two-b)
 
-**[III. Features engineering](#three)**
+**[III. Features engineering](#three)**  
 • Transformations  
 • Features creations and deletions  
 • Dimensional reductions
 
-**[IV. Model selection](#four)**
+**[IV. Model selection](#four)**  
 • Split  
 • Metrics/Loss function selection  
 • Model validation
