@@ -174,6 +174,8 @@ Using accuracy as a performance measure for highly imbalanced datasets is not a 
 
 - **ROC AUC**:
 
+---
+
 <a id="three"></a>
 ## V. Hyperparameters tuning
 
