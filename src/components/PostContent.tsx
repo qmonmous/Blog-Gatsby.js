@@ -199,9 +199,9 @@ export const PostFullContent = styled.section`
     margin: 1.5em 0 3em;
   }
 
-  hr {
+  */hr {
     margin: 4vw 0;
-  }
+  }*/
 
   */ hr:after {
     content: '';
