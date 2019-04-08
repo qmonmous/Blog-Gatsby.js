@@ -143,13 +143,13 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
           <ul css={NavStyles} role="menu">
             {/* TODO: mark current nav item - add class nav-current */}
             <li role="menuitem">
-              <Link to="/tags/data-science/">Data</Link>
+              <Link to="/tags/data-science/">Data Sc.</Link>
             </li>
             <li role="menuitem">
-              <Link to="/tags/cognitive-science/">Cognitive</Link>
+              <Link to="/tags/cognitive-science/">Cognitive Sc.</Link>
             </li>
             <li role="menuitem">
-              <Link to="/tags/sports-science/">Sports Science</Link>
+              <Link to="/tags/sports-science/">Sports Sc.</Link>
             </li>
             <li role="menuitem">
               <Link to="author/quentin-monmousseau/">About me</Link>

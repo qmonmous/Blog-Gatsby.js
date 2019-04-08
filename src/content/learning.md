@@ -49,3 +49,4 @@ I tried to figure out what definition we could give to intelligence in the era o
 In my opinion, we could think modern human intelligence as your own knowledge plus your ability to find out how to solve a problem on Google in let's say... 30 seconds. So learning how to learn is necessary, but you'd also better learn how to make researches to take advantage of the massive and increasing knowledge available online.
 
 Finally, I think you should focus on understanding concepts first, the idea is to get that transversal knowledge that can scale to any new tool. But you also have to learn with a tool, or try to implement what you're learning in a little project so you can assess your knowledge and show the world your way to use it, embellish it thanks to your personal background.
+
