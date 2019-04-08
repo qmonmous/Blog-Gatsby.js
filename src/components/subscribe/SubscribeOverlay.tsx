@@ -20,7 +20,7 @@ const SubscribeOverlay = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(0, 25, 40, 0.97);
+  background: rgba(200, 205, 40, 0.97);
   opacity: ${(props: SubscribeOverlayProps) => (props.open ? 1 : 0)};
   transition: opacity 200ms ease-in;
   pointer-events: ${(props: SubscribeOverlayProps) => (props.open ? 'auto' : 'none')};
