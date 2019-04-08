@@ -30,7 +30,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Quentin Monmousseau',
-  description: 'A blog about Data, Cognitive and Sports Science. //UNDER CONSTRUCTION',
+  description: '[UNDER CONSTRUCTION] A blog about Data, Cognitive and Sports Science.',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',

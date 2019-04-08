@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should consider Trap Bar Deadlift #A deadlift guidance to find your variation
+title: "Trap Bar Deadlift: a deadlift to rule them all"
 author: Quentin Monmousseau
 tags: [Sports Science]
 image: img/trap.jpg
