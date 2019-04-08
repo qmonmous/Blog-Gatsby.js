@@ -13,17 +13,17 @@ draft: false
 ---
 
 **[I. Get started](#one)**  
-[• a. No you're not too old](#one-one)  
-[• b. Hack your brain](#one-two)  
+• [a. No you're not too old](#one-one)  
+• [b. Hack your brain](#one-two)  
 
 **[II. Body analogy](#two)**  
-[• a. Brain behaves as a muscle](#two-one)  
-[• b. Sleep and nutrition](#two-two)  
+• [a. Brain behaves as a muscle](#two-one)  
+• [b. Sleep and nutrition](#two-two)  
 
 **[III. Try out!](#three)**  
-[• a. Intelligence in the big data and web era](#three-one)  
-[• b. Focus on understanding the concepts...](#three-two)  
-[• c. ...but try to implement in a little project and assess your knowledge](#three-three)
+• [a. Intelligence in the big data and web era](#three-one)  
+• [b. Focus on understanding the concepts...](#three-two)  
+• [c. ...but try to implement in a little project and assess your knowledge](#three-three)
 
 ---
 
