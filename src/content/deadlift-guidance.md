@@ -38,13 +38,13 @@ For a lot of lifters, trap bar is such a benediction. The overall movement patte
 
 ![Test Image](img/pull.jpg)
 
-First of all, Trap Bar Deadlift is **easier to learn and safer for a lot of people**. The position is naturally better as the barbell is not in front of you. Moreover, most trap bars grips are raised so there is even less ROM.
+First of all, Trap Bar Deadlift is <mark>**easier to learn and safer for a lot of people**</mark>. The position is naturally better as the barbell is not in front of you. Moreover, most trap bars grips are raised so there is even less ROM.
 
-It also allows you to have a <mark>stronger and safer grip</mark>. Indeed, Trap Bar Deadlifts don’t require a mixed grip - which is widely used to hold heavy barbells when performing straight bar deadlifts. This is preferable as mixed grip tends to cause muscle imbalances and isn’t comfortable at all for beginners.
+It also allows you to have a <mark>**stronger and safer grip**</mark>. Indeed, Trap Bar Deadlifts don’t require a mixed grip - which is widely used to hold heavy barbells when performing straight bar deadlifts. This is preferable as mixed grip tends to cause muscle imbalances and isn’t comfortable at all for beginners.
 
 Last but not least, Trap Bar Deadlifts allow for <mark>**higher velocity and higher power output**</mark>, which tend to ease your progressive overload on the movement.  
 One of the reason is that it is proven to be easier to initialize the movement with your quads, which - if you didn't - will eventually allow you to lift more.  
-But above all, it is widely corroborated by many studies. In a study of 2011, subjects were asked to perform a 1RM with both Trap Bar and Straight Barbell. The results are respectively of [265 ± 41 kg vs. 245 ± 39 kg (with a p-value under a signifiance level of 0.05)](https://www.ncbi.nlm.nih.gov/pubmed/21659894).
+But above all, it is widely corroborated by many studies. In a [study conducted in 2011](https://www.ncbi.nlm.nih.gov/pubmed/21659894), subjects were asked to perform a 1RM with both Trap Bar and Straight Barbell. The results are respectively of *265 ± 41 kg vs. 245 ± 39 kg (with a p-value under a signifiance level of 0.05)*.
 
 ---
 
