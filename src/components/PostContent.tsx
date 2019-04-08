@@ -199,11 +199,11 @@ export const PostFullContent = styled.section`
     margin: 1.5em 0 3em;
   }
 
-  */hr {
+  hr {
     margin: 4vw 0;
-  }*/
+  }
 
-  */ hr:after {
+  hr:after {
     content: '';
     position: absolute;
     top: -15px;
@@ -216,7 +216,7 @@ export const PostFullContent = styled.section`
     background: ${lighten('0.1', colors.lightgrey)};
     box-shadow: #fff 0 0 0 5px;
     transform: rotate(45deg);
-  } */
+  }
 
   h1,
   h2,
