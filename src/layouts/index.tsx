@@ -295,7 +295,7 @@ const GlobalStyles = css`
     width: 100%;
     margin: 2.5em 0 3.5em;
     padding: 0;
-    height: 1px;
+    height: 10px;
     border: 0;
     border-top: 1px solid ${lighten('0.1', colors.lightgrey)};
   }

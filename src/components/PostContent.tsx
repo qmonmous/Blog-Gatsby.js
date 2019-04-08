@@ -158,7 +158,7 @@ export const PostFullContent = styled.section`
   code {
     padding: 0 5px 2px;
     font-size: 0.8em;
-    line-height: 5em;
+    line-height: 1em;
     font-weight: 400 !important;
     background: ${colors.whitegrey};
     border-radius: 3px;
@@ -177,7 +177,7 @@ export const PostFullContent = styled.section`
     border: ${darken('0.01', colors.darkgrey)} 1px solid;
     color: ${colors.whitegrey};
     font-size: 1.4rem;
-    line-height: 5em;
+    line-height: 1.5em;
     /* background: color(var(--darkgrey) l(-3%)); */
     background: ${darken('0.03', colors.darkgrey)};
     border-radius: 5px;
