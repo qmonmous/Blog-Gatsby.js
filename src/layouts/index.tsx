@@ -293,9 +293,9 @@ const GlobalStyles = css`
     position: relative;
     display: block;
     width: 100%;
-    margin: 2.5em 0 3.5em;
+    margin: 2.5em 0 2.5em;
     padding: 0;
-    height: 10px;
+    height: 1px;
     border: 0;
     border-top: 1px solid ${lighten('0.1', colors.lightgrey)};
   }
