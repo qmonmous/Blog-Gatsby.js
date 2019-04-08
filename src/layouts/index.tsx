@@ -293,7 +293,7 @@ const GlobalStyles = css`
     position: relative;
     display: block;
     width: 100%;
-    margin: 2.5em 0 2.5em;
+    margin: 2.5em 0 5.5em;
     padding: 0;
     height: 1px;
     border: 0;

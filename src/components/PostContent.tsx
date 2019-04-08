@@ -203,6 +203,21 @@ export const PostFullContent = styled.section`
     margin: 4vw 0;
   }
 
+  */ hr:after {
+    content: '';
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    display: block;
+    margin-left: -10px;
+    width: 1px;
+    height: 30px;
+    /* background: color(var(--lightgrey) l(+10%)); */
+    background: ${lighten('0.1', colors.lightgrey)};
+    box-shadow: #fff 0 0 0 5px;
+    transform: rotate(45deg);
+  } */
+
   h1,
   h2,
   h3,
