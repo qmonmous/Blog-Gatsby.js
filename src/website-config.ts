@@ -34,7 +34,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://quentin-monmousseau.netlify.com/author/quentin-monmousseau/',
   github: 'https://github.com/qmonmous',
   linkedin: 'https://www.linkedin.com/in/quentin-monmousseau',
   twitter: 'https://twitter.com/QMonmousseau',
