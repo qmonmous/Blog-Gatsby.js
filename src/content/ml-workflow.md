@@ -142,7 +142,12 @@ sig = 0.74 * (quartiles[2] - quartiles[0])
 df = df.query('(feature > @mu - 5 * @sig) & (feature < @mu + 5 * @sig)')
 
 #Delete univariate outliers using IQR
+quartiles = np.percentile(df['feature'], [25, 50, 75])
+Q1 = quartiles[0]
+Q3 = quartiles[2]
+IQR = Q3 - Q1
 
+df = df.query('(feature > (@Q1 - 1.5 * @IQR)) & (feature < (@Q3 + 1.5 * @IQR))')
 ```
 
 ---
@@ -164,11 +169,11 @@ Une fois les variables catégorielles encodées, on peut faire une matrice de co
 
 b. Metrics/Loss function
 
-**Classifications problems:**
-- **MSE (Mean Squared Error)**:
+**Classifications problems:**  
+There are basic metrics such as **MSE (Mean Squared Error)** or **accuracy score**.
 
-- **accuracy score**:
-Using accuracy as a performance measure for highly imbalanced datasets is not a good idea. For example, if 90% points belong to the true class in a binary classification problem, a default prediction of true for all data points leads to a classifier which is 90% accurate, even though the classifier has not learned anything about the classification problem at hand!
+Using accuracy score as a performance measure for highly imbalanced datasets is not a good idea. For example, if 90% points belong to the true class in a binary classification problem, a default prediction of true for all data points leads to a classifier which is 90% accurate, even though the classifier has not learned anything about the classification problem at hand! 
+
 
 - **Precision Recall**:
 

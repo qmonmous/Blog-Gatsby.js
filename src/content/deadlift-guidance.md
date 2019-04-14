@@ -52,3 +52,6 @@ But above all, it is widely corroborated by many studies. In a [study conducted 
 
 - If you want to focus on your hamstrings and train your terminal hip extension; a (partial) Romanian deadlift might be a better option.
 - If you want to compete in powerlifting competitions, you'll need to perform with a traditional barbell.
+
+
+
