@@ -69,7 +69,6 @@ const AuthorProfileBioImage = css`
   margin: 0 0 20px 0;
   width: 100px;
   height: 100px;
-  box-shadow: rgba(255, 255, 255, 0.1) 0 0 0 6px;
 `;
 
 interface AuthorTemplateProps {
