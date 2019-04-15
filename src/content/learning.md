@@ -41,9 +41,9 @@ There are a million billion synapses in your brain where memories are stored. Th
 
 ### b. Hack your brain
 
-TODO
-Pb: Area of pain
-Solution: Pomodoro technique
+When you look at something that you really rather not do, it seems that you activate the **areas of your brain associated with pain**. When you start doing something you don't want to do, it seems that you activate the areas of your brain associated with pain. But researchers discovered that not long after people might start actually working out what they didn't like, that neurodiscomfort disappeared.
+
+To manage to get started, which seem to be the difficult part of the process, you should consider the <mark>**Pomodoro technique**</mark>. All you need to do, is set a timer to 25 minutes, turn off all interruptions, and then focus. The only last important thing is to give yourself a little reward when you're done.
 
 ---
 
