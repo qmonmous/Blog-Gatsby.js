@@ -18,7 +18,7 @@ draft: false
 
 **[II. Body analogy](#two)**  
 • [a. Brain behaves as a muscle](#two-one)  
-• [b. Sleep and nutrition](#two-two)  
+• [b. Sleep, nutrition, and sport](#two-two)  
 
 **[III. Try out!](#three)**  
 • [a. Intelligence in the big data and web era](#three-one)  
@@ -61,17 +61,17 @@ When you're learning, what you want to do is study something. Study it hard by f
 Research has shown that if you try to glue things into your memory by repeating something 20 times in one evening for example, it won't stick nearly as well as if you practice it the same number of times over several days. If you don't leave time for the mortar to dry, that is time for the synoptic connections to form and strengthen, you won't have a very good structure.
 ///
 
-### b. Sleep and nutrition
+### b. Sleep, nutrition, and sport
 
 > Mens sana in corpore sano
 
-TODO.
-**Sleep:**
-A recent research conducted by   ?    shows that sleeping less than 
+Recent research found that the neurons in key brain cells in your temporal lobe fire is more slowly and weakly when you're tired. Consequently, your attention and concentration abilities decline and you fail to both to get the work done and to take new information.
+It is recommended to **sleep at least 7 hours a day** and to try to stick to your natural sleep pattern.
 
-**Alimentation:**
-**Sports:** Free your mind, improve blood circulation and have a better overall mind 
-> I find that when I'm jogging, or out getting exercise, that it's a wonderful way to get the mind disengaged, from the normal train of thought. And I find that it's very very possible to to sort of come up with new thoughts, new ideas. And it's almost as if your brain goes into a new mode, you're running along, things are passing you by. And you start thinking about what's happening. For example, things that, that your brain has been working on, your out of conscious thoughts bubble to the surface. And often new ideas that are going to be then helpful to you later on. The only problem I have is remembering all those great ideas. Because when I get back and take a shower, then a lot of them have evaporated. And that's why I, I like to take a little notebook along with me, so I can take notes and remember what it is that I was thinking about.
+Concerning your alimentation, you have to make sure you have enough water, carbs, proteins, unsaturated fats, and ensure you eat sufficient micronutriments (vitamins, minerals).  
+The most important micronutriments for your brain are *PhosphatidylSerine (PS)*, *Vitamin D3 and B12*, *Omega 3 (DHA/EPA)*, and *Carnitine*. There are some powerful aliment such as **mackerel** that will highly help you to get that nutriments.
+
+Sport improves your overall blood circulation, including your blood supply to the brain. It also allows you to free your mind, letting what you recently learned work in the background. Moreover, take this little break can often let new ideas pop up to your mind. Do not hesitate to quickly note them on your phone so you can remember.
 
 ---
 
