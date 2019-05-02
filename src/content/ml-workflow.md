@@ -1,9 +1,9 @@
 ---
 layout: post
-title: An introduction to (supervised) Machine Learning by the workflow
+title: An introduction to Machine Learning with Python
 author: Quentin Monmousseau
 tags: [Data Science]
-image: img/ml.jpg
+image: img/a.jpeg
 date: 2019-03-02T23:46:37.121Z
 draft: false
 ---

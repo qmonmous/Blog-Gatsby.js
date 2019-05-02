@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Trap Bar Deadlift: a deadlift to rule them all"
+title: "An introduction to Trap Bar Deadlift: one deadlift to rule them all"
 author: Quentin Monmousseau
 tags: [Sports Science]
-image: img/trap.jpg
+image: img/c.jpeg
 date: 2019-03-05T23:46:37.121Z
 draft: false
 ---

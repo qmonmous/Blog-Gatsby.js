@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Is Learning the fundamental skill of the 21st Century
+title: Is Learning the most important skill of the 21st Century
 author: Quentin Monmousseau
 tags: [Cognitive Science]
-image: img/think.jpg
+image: img/b.jpeg
 date: 2019-03-29T23:46:37.121Z
 draft: false
 ---
