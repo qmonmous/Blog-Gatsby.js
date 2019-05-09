@@ -214,6 +214,7 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0 0.2em 0;
     font-size: 4.4rem;
     font-weight: 700;
+    text-align: center;
   }
   @media (max-width: 500px) {
     h1 {
@@ -222,9 +223,10 @@ export const PostFullContent = styled.section`
   }
 
   h2 {
-    margin: 0.5em 0 0.5em 0;
+    margin: 0.5em 0 1em 0;
     font-size: 3.4rem;
     font-weight: 700;
+    text-align: center;
   }
   @media (max-width: 500px) {
     h2 {
@@ -233,7 +235,7 @@ export const PostFullContent = styled.section`
   }
 
   h3 {
-    margin: 0.5em 0 0.5em 0;
+    margin: 0.5em 0 1em 0;
     font-size: 2.6rem;
     font-weight: 700;
   }
