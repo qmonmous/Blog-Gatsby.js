@@ -1,9 +1,6 @@
-- id: Data Science
-  description: From Data Science research to practical applications.
+- id: Data Sc. & A.I.
+  description: From research to practical applications.
   image: img/blog-cover.jpg
-- id: Cognitive Science
-  description: From Cognitive Science research to practical applications.
-  image: img/blog-cover.jpg
-- id: Sports Science
-  description: From Sports Science research to practical applications.
+- id: NeuroSc. & Physiology
+  description: From research to practical applications.
   image: img/blog-cover.jpg

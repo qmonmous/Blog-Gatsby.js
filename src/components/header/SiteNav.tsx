@@ -145,13 +145,10 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
               <Link to="">Home</Link>
             </li>
             <li role="menuitem">
-              <Link to="/tags/data-science/">Data Sc.</Link>
+              <Link to="/tags/data-sc-ai/">Data Sc. & A.I.</Link>
             </li>
             <li role="menuitem">
-              <Link to="/tags/cognitive-science/">Cognitive Sc.</Link>
-            </li>
-            <li role="menuitem">
-              <Link to="/tags/sports-science/">Sports Sc.</Link>
+              <Link to="/tags/neuro-sc-physiology/">NeuroSc. & Physiology</Link>
             </li>
           </ul>
         </SiteNavLeft>
