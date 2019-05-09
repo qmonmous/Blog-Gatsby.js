@@ -46,6 +46,9 @@ Last but not least, Trap Bar Deadlifts allow for <mark>**higher velocity and hig
 One of the reason is that it is proven to be easier to initialize the movement with your quads, which - if you didn't - will eventually allow you to lift more.  
 But above all, it is widely corroborated by many studies. In a [study conducted in 2011](https://www.ncbi.nlm.nih.gov/pubmed/21659894), subjects were asked to perform a 1RM with both Trap Bar and Straight Barbell. The results are respectively of *265 ± 41 kg vs. 245 ± 39 kg (with a p-value under a signifiance level of 0.05)*.
 
+In another study conducted on nineteen male powerlifters, subjects performed trials at maximum speed with loads of 10, 20, 30, 40, 50, 60, 70, and 80% of their predetermined 1-repetition maximum (1RM). Inverse dynamics and spatial tracking of the external resistance were used to quantify kinematic and kinetic variables.
+> The design of the hexagonal barbell significantly altered the resistance moment at the joints analyzed (p < 0.05), resulting in lower peak moments at the lumbar spine, hip, and ankle (p < 0.05) and an increased peak moment at the knee (p < 0.05). Maximum peak power values of 4,388 ± 713 and 4,872 ± 636 W were obtained for the SBD and HBD, respectively (p < 0.05). Across the submaximal loads, significantly greater peak force, peak velocity and peak power values were produced during the HBD compared to during the SBD (p < 0.05). The results demonstrate that the choice of barbell used to perform the deadlift has a significant effect on a range of kinematic and kinetic variables. The enhanced mechanical stimulus obtained with the hexagonal barbell suggests that in general the HBD is a more effective exercise than the SBD.
+
 ---
 
 ### b. Exceptions

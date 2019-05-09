@@ -4,7 +4,7 @@ title: Créativité et Humanité augmentée au 21ème siècle
 author: Quentin Monmousseau
 tags: [NeuroSc. & Physiology]
 image: images/crysisvie.jpg
-date: 2019-03-29T23:46:37.121Z
+date: 2019-05-08T22:00:00.121Z
 draft: false
 ---
 
