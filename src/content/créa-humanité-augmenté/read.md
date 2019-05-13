@@ -19,7 +19,7 @@ C. La biotechnologie
 
 ## A. The Krebs Cycle of Creativity
 
-![](images/creativity.png)
+![](images/krebs.png)
 
 Pensé par *Neri Oxman* (chercheuse au *MIT* pour le *[Mediated Matter group](https://mediatedmattergroup.com/)*), The Krebs Cycle of Creativity représente la place des quatre domaines créatifs, chacun pouvant amener une révolution en collaboration avec les autres. La conscience pure et parfaite se plaçant au centre de ces domaines.
 
@@ -33,7 +33,7 @@ Pour Neri Oxman, la révolution industrielle a amené un nouveau paradigme : le 
 
 ## B. Entre Elon Musk et Yū Sasuga
 
-Avec *NeuraLink*, la startup américaine d’Elon Musk développe des interfaces cerveau-machine pour augmenter — **technologiquement** — les capacités humaines. Dans l’oeuvre fictive de Yū Sasuga – *Terra Formars* – les humains sont eux **génétiquement** modifiés pour s’approprier les caractéristiques d’organismes non humains comme la vision 8 fois supérieure d’un aigle.  
+*NeuraLink*, la startup américaine d’Elon Musk développe des interfaces cerveau-machine pour augmenter — **technologiquement** — les capacités humaines. Dans l’oeuvre fictive de Yū Sasuga – *[Terra Formars](https://www.youtube.com/watch?v=zQ-9UYfmmuU)* – les humains sont eux **génétiquement** modifiés pour s’approprier les caractéristiques d’organismes non humains comme la vision 8 fois supérieure d’un aigle.  
 Ces deux mondes ne sont pas destinés à s’affronter et peuvent largement collaborer comme le suggère The Krebs Cycle of Creativity. Si Elon Musk souhaite coloniser Mars, notamment grâce au travail technique de *SpaceX*, Yū Sasuga imagine un moyen de la rendre habitable en la terraformant biologiquement.  
 *Dans l'oeuvre, la surface de la planète est recouverte de lichens et de cafards afin de la réchauffer en absorbant la lumière du soleil.*
 

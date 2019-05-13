@@ -226,7 +226,6 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0 1em 0;
     font-size: 3.4rem;
     font-weight: 700;
-    text-align: center;
   }
   @media (max-width: 500px) {
     h2 {
@@ -235,7 +234,7 @@ export const PostFullContent = styled.section`
   }
 
   h3 {
-    margin: 0.5em 0 1em 0;
+    margin: 2em 0 1em 0;
     font-size: 2.6rem;
     font-weight: 700;
   }
@@ -506,10 +505,10 @@ export const PostFullContent = styled.section`
   }
 
   .gatsby-highlight {
-    margin-bottom: 1.75rem;
+    margin-bottom: 3rem;
     margin-left: -1.3125rem;
     margin-right: -1.3125rem;
-    border-radius: 10px;
+    border-radius: 8px;
     background: #011627;
     -webkit-overflow-scrolling: touch;
     overflow: auto;
@@ -517,7 +516,6 @@ export const PostFullContent = styled.section`
 
   @media (max-width: 672px) {
     .gatsby-highlight {
-      border-radius: 0;
     }
   }
 
