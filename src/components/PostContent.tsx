@@ -229,7 +229,7 @@ export const PostFullContent = styled.section`
   }
   @media (max-width: 500px) {
     h2 {
-      font-size: 2.4rem;
+      font-size: 2.8rem;
     }
   }
 
@@ -240,7 +240,7 @@ export const PostFullContent = styled.section`
   }
   @media (max-width: 500px) {
     h3 {
-      font-size: 2.0rem;
+      font-size: 2.4rem;
     }
   }
 
