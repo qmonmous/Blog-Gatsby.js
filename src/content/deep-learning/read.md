@@ -28,7 +28,7 @@ draft: false
 
 ## I. Comprendre et implémenter un réseau de neurones
 
-Les réseaux de neurones sont le nerf de la guerre du Deep Learning. Théorisés depuis une cinquantaine d'années, ils sont longtemps restés déceptifs avant de revenir en force grâce à la puissance de calcul des nouveaux ordinateurs. En détectant des *patterns* parfois invisibles pour les humains, ils permettent une compréhension des données qui dépassent parfois les meilleures *heuristiques*. Ainsi, dans le domaine de l'image processing par exemple, les réseaux de neurones se sont mis à produire des résultats supérieurs à des détecteurs aux règles établies par des experts métiers.
+Les réseaux de neurones sont le nerf de la guerre du Deep Learning. Théorisés depuis une cinquantaine d'années, ils sont longtemps restés déceptifs avant de revenir en force grâce à la puissance de calcul des processeurs récents. En détectant des *patterns* parfois invisibles à l'oeil nu, ils permettent une compréhension des données qui dépassent parfois les meilleures *heuristiques*. Ainsi, dans le domaine de l'image processing par exemple, les réseaux de neurones se sont mis à produire des résultats supérieurs à des détecteurs aux règles établies par des experts métiers.
 
 Pour comprendre comment tout cela fonctionne, commençons à l'échelle d'un neurone. Le processus se fait en deux grandes étapes, la <mark>**Forward Propagation**</mark> et la <mark>**Back Propagation**</mark>.
 
@@ -38,22 +38,20 @@ Pour comprendre comment tout cela fonctionne, commençons à l'échelle d'un neu
 
 1. Le réseau de neurones va prendre les différentes features comme *inputs*.
 
-2. Ces *inputs* sont multipliées par leur *poids* respectif. Ce poids est initialisé selon certaines méthodes (comme celle de Xavier ou celle de He) et sera actualisé durant l'entraînement pour donner plus ou moins d'importance à la feature.
+2. Ces *inputs* sont multipliées par leur *poids* respectif. Ce *poids* est initialisé selon certaines méthodes (comme celle de Xavier ou celle de He) et sera actualisé durant l'entraînement pour donner plus ou moins d'importance à la feature.
 
 3. On réalise alors une somme pondérée, c'est-à-dire une somme de ces multiplications.
 
-4. Cette somme est ensuite donnée à une *fonction d'activation* qui formate et retourne la prédiction en *output*.
+4. Cette somme est finalement donnée à une *fonction d'activation* qui formate le résultat et permet de produire la prédiction en *output*.
 
 ### Back Propagation :  
-5. Cette prédiction va être comparée à la valeur attendue pour déterminer une mesure de l'erreur, la *loss*.
+5. Cette prédiction va être comparée à la valeur attendue pour déterminer une mesure de l'erreur, on parle de fonction de *loss*. De plus, la contribution à l'erreur de chaque neurone de la couche précédente va être déterminée.
 
-6. La contribution à l'erreur de chaque neurone de la couche précédente va être déterminée 
+6. Une fonction *optimizer* (telle que la descente de gradient) va chercher à minimiser la *loss* calculée.
 
-5. Une fonction *optimizer* (telle que la descente de gradient) va chercher à minimiser la *loss* calculée.
+7. Le *gradient* établi va permettre au réseau d'actualiser les *poids* initiés sur la couche précédente, en tenant compte de leur contribution à l'erreur. Le processus est ensuite relancer x fois (avec x le nombre d'*epochs* fixés pour l'entraînement).
 
-6. Le *gradient* établi va permettre au réseau d'actualiser les *poids* initiaux avant de relancer le processus x fois (avec x le nombre d'*epochs* fixés pour l'entraînement).
-
-Ce processus peut non seulement se répéter mais également être multiple au sein même du réseau. On  peut en effet ajouter plusieurs couches pour complexifier le modèle et le rendre plus puissant. Ces couches intermédiaire sont appelées *hidden layers*. Plus on ajoute de couches, plus le réseau devient profond. C'est la raison pour laquelle on parle de Deep Learning.
+Ce processus peut non seulement se répéter mais également être multiple au sein même du réseau. On  peut en effet ajouter plusieurs couches pour complexifier le modèle (ajouter de la non-linéarité) et le rendre plus puissant. Ces couches intermédiaire sont appelées *hidden layers*. Plus on ajoute de couches, plus le réseau devient profond. C'est la raison pour laquelle on parle de Deep Learning.
 
 ![](images/deepneuralnet.png)
 
@@ -61,7 +59,7 @@ Ce processus peut non seulement se répéter mais également être multiple au s
 
 ## II. Implémentation avec Tensorflow 2.0
 
-Pour implémenter notre premier réseau de neurone, nous allons utiliser la nouvelle version de *Tensorflow*, j'ai nommé *Tensorflow 2.0*. La librairie a l'avantage d'absorber l'excellente API *Keras* qui facilite grandement la construction du modèle. Initialisons un modèle séquentiel à couches.
+Pour implémenter notre premier réseau de neurone, nous allons utiliser la nouvelle version de *Tensorflow*, j'ai nommé *Tensorflow 2.0*. La librairie a l'avantage d'absorber l'excellente API *Keras* qui facilite grandement la construction du modèle. Initialisons un modèle à plusieurs *layers*.
 
 ```python
 from tensorflow.keras.models import Sequential # pour créer un modèle
@@ -73,7 +71,7 @@ classifier = keras.Sequential()
 
 ### Forward Propagation :  
 
-Nous ajoutons les différents *layers* avec <code>.add(Dense())</code>. Il n'y a pas de règle quant au nombre de layers, cela relève de l'intuition face à la problématique et de l'expérimentation. Ici nous en générons trois.
+Nous ajoutons les différents *layers* avec <code>.add(Dense())</code>. Il n'y a pas de règle fixe quant au nombre de layers et de neurones à l'intérieur, cela relève de l'intuition face à la problématique, de l'expérimentation ou encore de certains calculs possibles. Ici nous en générons trois. Le premier est notre Input Layer, il contient 9 neurones pour les 9 features de notre modèle. Le second est un Hidden Layer de 3 neurones. Le dernier est l'Output Layer, il contient un seul neurone capable de prédire la probabilité de succès.
 
 ```python
 classifier.keras.add(Dense(units=5, activation='relu', input_dim=9)) # input layer

@@ -111,6 +111,7 @@ export const PostFullContent = styled.section`
     margin: 1.5em auto;
     max-width: 1040px;
     height: auto;
+    border-radius: 8px;
   }
 
   @media (max-width: 1040px) {
@@ -229,7 +230,7 @@ export const PostFullContent = styled.section`
   }
   @media (max-width: 500px) {
     h2 {
-      font-size: 2.8rem;
+      font-size: 2.7rem;
     }
   }
 
@@ -240,7 +241,7 @@ export const PostFullContent = styled.section`
   }
   @media (max-width: 500px) {
     h3 {
-      font-size: 2.4rem;
+      font-size: 2.3rem;
     }
   }
 
