@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An introduction to Trap Bar Deadlift: one deadlift to rule them all"
+title: "🇬🇧 An introduction to Trap Bar Deadlift: one deadlift to rule them all"
 author: Quentin Monmousseau
 tags: [NeuroSc. & Physiology]
 image: img/c.jpeg

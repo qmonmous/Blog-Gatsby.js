@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Learning the most important skill of the 21st Century
+title: 🇬🇧 Is Learning the most important skill of the 21st Century
 author: Quentin Monmousseau
 tags: [NeuroSc. & Physiology]
 image: img/b.jpeg

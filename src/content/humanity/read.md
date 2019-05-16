@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Créativité et Humanité augmentée au 21ème siècle
+title: 🇫🇷 Créativité et Humanité augmentée au 21ème siècle
 author: Quentin Monmousseau
 tags: [NeuroSc. & Physiology]
 image: images/header.png
