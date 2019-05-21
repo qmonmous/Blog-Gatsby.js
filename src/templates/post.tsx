@@ -47,12 +47,12 @@ export const NoImage = css`
 
 export const PostFullHeader = styled.header`
   margin: 0 auto;
-  padding: 6vw 3vw 3vw;
+  padding: 6vw 3vw 6vw;
   max-width: 1040px;
   text-align: center;
 
   @media (max-width: 500px) {
-    padding: 14vw 3vw 10vw;
+    padding: 10vw 3vw 10vw;
   }
 `;
 
@@ -78,6 +78,7 @@ const PostFullMetaDate = styled.time`
 export const PostFullTitle = styled.h1`
   margin: 0;
   color: ${setLightness('0.05', colors.darkgrey)};
+  font-size: 4em;
   @media (max-width: 500px) {
     font-size: 2.9rem;
   }

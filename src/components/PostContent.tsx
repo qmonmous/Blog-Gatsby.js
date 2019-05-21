@@ -18,8 +18,10 @@ export const PostFullContent = styled.section`
   @media (max-width: 1170px) {
     padding: 5vw 7vw 0;
   }
-  @media (max-width: 800px) {
-    font-size: 1.9rem;
+  @media (max-width: 500px) {
+    font-size: 1.8rem;
+    margin: 24px 16px;
+    text-align: justify;
   }
 
   :before {
