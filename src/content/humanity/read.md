@@ -8,7 +8,7 @@ date: 2019-05-08T22:00:00.121Z
 draft: false
 ---
 
-*Quand on parle d'innovation, on pense souvent aux prouesses techniques mais on oublie souvent qu'elle naisse d'une vision et d'une perception du monde qui engage pleinement les domaines de l'Art et du Design. Dans cet article, je vous propose de découvrir quelles sont les révolutions possibles pour l'humain au 21ème siècle.*
+*Quand on parle d'innovation, on pense souvent aux prouesses techniques mais on oublie souvent qu'elle naisse d'une perception du monde qui engage pleinement les domaines artistiques. Dans cet article, je vous propose de découvrir comment l'art pourrait initier les révolutions technologiques du 21ème siècle.*
 
 **Sommaire :**  
 A. The Krebs Cycle of Creativity  
@@ -46,9 +46,9 @@ La plupart d’entre nous trouvent certainement ces perspectives improbables, vo
 
 ## C. La biotechnologie
 
-A la croisée des domaines créatifs, de nouvelles technologies inspirées d’une nature rendue compréhensible par la science, et mis en production par l’ingénierie, pourraient naître. Imaginez bénéficier des protéines fabriquées par le *tardigrade*, le seul être vivant capable de résister à des situations extrêmes telle que l'explosation d'une supernova ou la privation totale d'eau. Le tardigrade est en effet capable de disloquer puis de réparer son propre ADN. Et bien *Takekazu Kunieda* de l’université de Kyoto a identifié une protéine protégant leur ADN des radiations qui pourrait également protéger les cellules humaines des rayons X.
+De plus en plus loin des fantasmes artistiques, les biotechnologies sont en plein essor. Imaginez bénéficier des protéines fabriquées par le *tardigrade*, le seul être vivant capable de résister à des situations extrêmes telle que l'explosation d'une supernova ou la privation totale d'eau. Ce petit être capable de disloquer puis de réparer son propre ADN pourrait bien se révéler utile puisque *Takekazu Kunieda*, chercheur à l’université de Kyoto, a récemment identifié la protéine protégant l'ADN du *tardigrade* des radiations, protéine qui pourrait également protéger les cellules humaines.
 
-En 2018, des babouins ont vécu six mois en bonne santé après avoir reçu une greffe de cœur issu de porcs génétiquement modifiés pour ne pas exprimer des molécules susceptibles de provoquer un rejet. Un résultat prometteur qui laisse entrevoir la possibilité de xénotransplantation chez l’être humain.  
+Autre anecdote, en 2018, des babouins ont vécu six mois en bonne santé après avoir reçu une greffe de cœur issu de porcs génétiquement modifiés pour ne pas exprimer des molécules susceptibles de provoquer un rejet. Un résultat prometteur qui laisse entrevoir la possibilité de xénotransplantation chez l’être humain.  
 Plus fou encore, des chercheurs ont implanté des cellules souches humaines dans des embryons porcins qui, en se développant, ont montré que les cellules humaines avaient commencé à se transformer en tissus musculaires, notamment cardiaques.
 
 > "Le but ultime de cette expérience est de cultiver des tissus ou des organes humains (pancréas, foie, cœur…) chez des animaux, comme des truies, qui pourront ensuite être greffés sans rejet chez l’humain."  
