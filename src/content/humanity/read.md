@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🇫🇷 Créativité et Humanité augmentée au 21ème siècle
+title: 🇫🇷 De l’art à la réalité technologique – Perspectives pour l’Humanité augmentée (Part. 1)
 author: Quentin Monmousseau
 tags: [NeuroSc. & Physiology]
 image: images/header.png

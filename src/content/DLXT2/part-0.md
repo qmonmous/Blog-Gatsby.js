@@ -150,10 +150,10 @@ On peut constater l'évolution de nos mesures d'erreur sur les jeux d'entraînem
 ## III. Pistes d'amélioration du modèle
 
 Les principaux facteurs qui déterminent la qualité de l'apprentissage sont les suivants :
-- la qualité et la quantité des données utilisées.
-- les features proposées au modèle.
-- les poids initiaux.
-- le nombre de neurones par couches, le nombre de couches.
-- le choix de la fonction d'activation.
-- le nombre d'epochs (monitorer l'apprentissage).
-- faire attention au résultat de l'*optimizer* car la fonction d'erreur est rarement convexe, donc il y a des minimas locaux qui empêchent la descente de gradient (par exemple) de trouver le minima global.
+- la qualité et la quantité des données utilisées,
+- les features proposées au modèle,
+- les poids initiaux,
+- le nombre de neurones par couches, le nombre de couches,
+- le choix de la fonction d'activation,
+- le nombre d'epochs (monitorer l'apprentissage),
+- faire attention au résultat de l'*optimizer* car la fonction d'erreur est rarement convexe. Il existe donc des minima locaux qui empêchent les méthodes comme la descente de gradient de trouver le minimum global.

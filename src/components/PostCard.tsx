@@ -220,7 +220,7 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({ post }) => {
       <PostCardContent className="post-card-content">
         <Link className="post-card-content-link" css={PostCardContentLink} to={post.fields.slug}>
           <header className="post-card-header">
-            {post.frontmatter.tags && <PostCardTags>{post.frontmatter.tags[0]}</PostCardTags>}
+            {post.frontmatter.tags && <PostCardTags>{post.frontmatter.tags[0]} / {post.frontmatter.tags[1]}</PostCardTags>}
             <PostCardTitle>{post.frontmatter.title}</PostCardTitle>
           </header>
           <PostCardExcerpt>
