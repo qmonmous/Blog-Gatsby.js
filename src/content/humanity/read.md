@@ -23,7 +23,7 @@ C. La biotechnologie
 
 Pensé par *Neri Oxman* (chercheuse au *MIT* pour le *[Mediated Matter group](https://mediatedmattergroup.com/)*), The Krebs Cycle of Creativity représente la place des quatre domaines créatifs, chacun pouvant amener une révolution en collaboration avec les autres. La conscience pure et parfaite se plaçant au centre de ces domaines.
 
-Des sous-domaines en naissent directement, comme les humanités digitales, au croisement de l'informatique et des arts, lettres, sciences humaines et sciences sociales. La (très) bonne nouvelle dans tout ça, c’est que ces nouveaux mouvements sont souvent en faveur de la diffusion, du partage et de la valorisation du savoir. Elles éduquent et élèvent l’Homme sans que la technologie ne soit là pour l’écraser.
+Des sous-domaines en naissent directement, comme les humanités digitales par exemple. La (très) bonne nouvelle dans tout ça, c’est que ces nouveaux mouvements sont souvent en faveur de la diffusion, du partage et de la valorisation du savoir. Elles éduquent et élèvent l’Homme sans que la technologie ne soit là pour l’écraser.
 
 Pour Neri Oxman, la révolution industrielle a amené un nouveau paradigme : le monde machine ("the World as Machine"). Elle propose un nouveau modèle à l'ère digitale : le monde organisme ("the World as Organism"). Ayant étudiée la médecine et l'architecture avant de réaliser son phD en Computational Design, elle envisage des créations telle qu'une structure habitable recouverte d'une surface organique intégrant de multiples fonctions (non sans rappeller la peau qui filtre et retient).
 
