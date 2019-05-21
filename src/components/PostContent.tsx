@@ -20,8 +20,7 @@ export const PostFullContent = styled.section`
   }
   @media (max-width: 500px) {
     font-size: 1.8rem;
-    margin: 24px 16px;
-    text-align: justify;
+    margin: 24px 10px;
   }
 
   :before {
