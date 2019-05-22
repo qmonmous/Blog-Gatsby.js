@@ -35,6 +35,7 @@ Pour comprendre comment tout cela fonctionne, commençons à l'échelle d'un neu
 ### Forward Propagation :  
 
 ![](images/neuralnet.png)
+###### Réseau de neurones à layer unique
 
 1. Le réseau de neurones va prendre les différentes features comme *inputs*.
 
@@ -54,6 +55,7 @@ Pour comprendre comment tout cela fonctionne, commençons à l'échelle d'un neu
 Ce processus peut non seulement se répéter mais également être multiple au sein même du réseau. On  peut en effet ajouter plusieurs couches pour complexifier le modèle (ajouter de la non-linéarité) et le rendre plus puissant. Ces couches intermédiaire sont appelées *hidden layers*. Plus on ajoute de couches, plus le réseau devient profond. C'est la raison pour laquelle on parle de Deep Learning.
 
 ![](images/deepneuralnet.png)
+###### Réseau de neurones multi-layers
 
 ---
 
