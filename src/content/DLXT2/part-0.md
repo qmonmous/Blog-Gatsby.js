@@ -13,7 +13,7 @@ draft: false
 ---
 
 ### Sommaire  
-**I. Comprendre et implémenter un réseau de neurones**  
+**I. Le fonctionnement d'un réseau de neurones**  
 • Forward Propagation  
 • Back Propagation  
 
@@ -26,7 +26,7 @@ draft: false
 
 ---
 
-## I. Comprendre et implémenter un réseau de neurones
+## I. Le fonctionnement d'un réseau de neurones
 
 Les réseaux de neurones sont le nerf de la guerre du Deep Learning. Théorisés depuis une cinquantaine d'années, ils sont longtemps restés déceptifs avant de revenir en force grâce à la puissance de calcul des processeurs récents. En détectant des *patterns* parfois invisibles à l'oeil nu, ils permettent une compréhension des données qui dépassent parfois les meilleures *heuristiques*. Ainsi, dans le domaine de l'image processing par exemple, les réseaux de neurones se sont mis à produire des résultats supérieurs à des détecteurs aux règles établies par des experts métiers.
 
