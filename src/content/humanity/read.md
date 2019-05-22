@@ -48,6 +48,8 @@ La plupart d’entre nous trouvent certainement ces perspectives improbables, vo
 
 ## C. La biotechnologie
 
+![](images/tardigrades-orig.jpg)
+
 De plus en plus loin des fantasmes artistiques, les biotechnologies sont en plein essor. Imaginez bénéficier des protéines fabriquées par le *tardigrade*, le seul être vivant capable de résister à des situations extrêmes telle que l'explosation d'une supernova ou la privation totale d'eau. Ce petit être capable de disloquer puis de réparer son propre ADN pourrait bien se révéler utile puisque *Takekazu Kunieda*, chercheur à l’université de Kyoto, a récemment identifié la protéine protégant l'ADN du *tardigrade* des radiations, protéine qui pourrait également protéger les cellules humaines.
 
 Autre anecdote, en 2018, des babouins ont vécu six mois en bonne santé après avoir reçu une greffe de cœur issu de porcs génétiquement modifiés pour ne pas exprimer des molécules susceptibles de provoquer un rejet. Un résultat prometteur qui laisse entrevoir la possibilité de xénotransplantation chez l’être humain.  

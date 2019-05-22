@@ -14,6 +14,7 @@ export const PostFullContent = styled.section`
   font-size: 2rem;
   line-height: 1.6em;
   background: #fff;
+  color: ${lighten('0.2', colors.darkgrey)};
 
   @media (max-width: 1170px) {
     padding: 5vw 7vw 0;
@@ -281,13 +282,16 @@ export const PostFullContent = styled.section`
   }
 
   h6 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 2.1rem;
+    margin: -20px 0 2em;
+    font-size: 1.3rem;
     font-weight: 700;
+    font-weight: lighter;
+    text-align: center;
+    color: grey;
   }
   @media (max-width: 700px) {
     h6 {
-      font-size: 1.8rem;
+      font-size: 1.1rem;
     }
   }
 

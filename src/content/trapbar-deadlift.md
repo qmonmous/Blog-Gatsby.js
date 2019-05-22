@@ -24,7 +24,8 @@ draft: false
 
 Deadlift is one of the three main lifting exercises (with squat and bench press). It is a very efficient exercise that allows you to strengthen your lower-body, *erector spinae* muscles, core, and grip.
 
-![Small Test Image](img/dead.jpg)
+![](img/dead.jpg)
+###### Muscles involved while performing a deadlift
 
 For a lot of people, reaching the floor without a spinal flexion - no matter how much mobility work they do - can be a real problem. In this case, it is highly recommended to avoid classic deadlifts and to prioritize variations such as Rack or Block pulls. Those allow you to reduce the range of motion (ROM) you'll have to travel while performing the movement. But there is - I think - a better and more convenient option which is Trap Bar Deadlifts.
 
@@ -36,7 +37,8 @@ For a lot of people, reaching the floor without a spinal flexion - no matter how
 
 For a lot of lifters, trap bar is such a benediction. The overall movement pattern is still similar to a conventional deadlift but it allows for more flexibility in the movement.
 
-![Test Image](img/pull.jpg)
+![](img/pull.jpg)
+###### A Trap Bar Deadlift, performed by AlphaDestiny
 
 First of all, Trap Bar Deadlift is <mark>**easier to learn and safer for a lot of people**</mark>. The position is naturally better as the barbell is not in front of you. Moreover, most trap bars grips are raised so there is even less ROM.
 
