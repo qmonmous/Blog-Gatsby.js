@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction au Natural Language Processing - NLP (Part. 1) [En cours d'écriture]
+title: 🇫🇷 Introduction au Natural Language Processing - NLP (Part. 1) [En cours d'écriture]
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I]
 image: images/40743.jpg
