@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🇫🇷 Introduction au Web Mining – WMXP (Part. 0)
+title: 🇫🇷 Introduction au Web Mining – WMXP (Part. 1)
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I.]
 image: images/header-articles.png

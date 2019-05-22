@@ -2,7 +2,7 @@
 layout: post
 title: 🇫🇷 Introduction au NLP - NLPXP (Part. 1) / En cours d'écriture
 author: Quentin Monmousseau
-tags: [Data Sc. & A.I]
+tags: [Data Sc. & A.I.]
 image: images/header-articles.png
 date: 2019-05-20T23:46:37.121Z
 draft: false
