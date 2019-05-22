@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🇫🇷 Introduction au Natural Language Processing - NLPXP (Part. 1) / En cours d'écriture
+title: 🇫🇷 Introduction au NLP - NLPXP (Part. 1) / En cours d'écriture
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I]
 image: images/header-articles.png
@@ -51,8 +51,6 @@ Il est possible de représenter ce corpus sous forme de vecteur. A chaque fois q
 
 Pour décrire une phrase, on va ensuite attribuer 1 si le mot est présent, 0 sinon.
 <code>"Un homme souvent paradoxal"</code> devient <code>[0 0 1 1 1 1]</code>.
-
-![](images/bagofwords.png)
 
 Par ailleurs, forcer le vecteur à attribuer une position fixe à chaque mot commence à répondre à une problématique inhérente au NLP. Plus le corpus est grand, plus le vecteur va contenir de mots et donc devenir coûteux d’un point de vue calcul machine. Il existe donc des méthodes permettant, par exemple, de regrouper les mots sous la forme de leur radical : <code>[découper, coupant, couperaient]</code> deviennent <code>[coupe]</code>. Cela permet de limiter le temps de calcul tout en conservant (généralement) le sens des mots. Mais passons à la pratique.
 
