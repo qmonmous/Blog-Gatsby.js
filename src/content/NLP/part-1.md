@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 🇫🇷 Introduction au Natural Language Processing - NLP (Part. 1) [En cours d'écriture]
+title: 🇫🇷 Introduction au Natural Language Processing - NLPXP (Part. 1) / En cours d'écriture
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I]
-image: images/40743.jpg
+image: images/header-articles.png
 date: 2019-05-20T23:46:37.121Z
 draft: false
 ---
@@ -32,7 +32,10 @@ Le *Natural Language Processing* (ou *NLP*) est un ensemble de méthodes informa
 On peut avoir une approche purement statistique (on parle alors de lexicométrie) en étudiant des données telles que les occurrences des mots par exemple.  
 Plus largement, le NLP va permettre de modéliser des motifs dans le texte en s'intéressant à la co-occurence de certains mots par exemple. Ainsi, si il est extrêmement difficile de trouver des règles tout à fait générales en NLP, le Machine Learning va permettre de les découvrir et de les appliquer aux corpus suivants.
 
-Voici quelques sujets sur lesquels travailler avec du NLP :
+![](images/whatisnlp.jpg)
+###### Looks fascinating, right?
+
+Voici, entre autres, quelques sujets sur lesquels travailler avec du NLP :
 - l’analyse de sentiments,
 - la modélisation de thématiques,
 - la traduction automatique...
