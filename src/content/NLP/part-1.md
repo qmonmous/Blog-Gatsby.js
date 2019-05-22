@@ -8,7 +8,7 @@ date: 2019-05-20T23:46:37.121Z
 draft: false
 ---
 
-*Dans cet article, nous découvrons l'analyse textuelle et les modélisations possibles en NLP à l'aide des librairies NLTK, spaCy et Gensim.*
+*Dans cet article, nous découvrons l'analyse textuelle à l'aide des librairies NLTK, spaCy et Gensim, ainsi que les modélisations possibles en NLP.*
 
 ---
 
