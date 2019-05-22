@@ -8,7 +8,7 @@ date: 2019-05-20T23:46:37.121Z
 draft: false
 ---
 
-*Dans cet article, nous découvrons l'analyse textuelle et les modélisations possibles en NLP.*
+*Dans cet article, nous découvrons l'analyse textuelle et les modélisations possibles en NLP à l'aide des librairies NLTK, spaCy et Gensim.*
 
 ---
 
@@ -56,6 +56,8 @@ Par ailleurs, forcer le vecteur à attribuer une position fixe à chaque mot com
 ---
 
 ## II. Preprocessing
+
+Dans cet article, j'ai choisi de travailler avec les librairies *NLTK, spaCy et Gensim* pour ouvrir le champs des possibles. La plupart des étapes peuvent être réalisées à l'aide des 3 librairies, ici l'idée est surtout de comprendre l'intérêt des différentes méthodes applicables en NLP.
 
 ### A. Récupération du corpus
 La première étape consiste à récupérer le corpus sur lequel on souhaite travailler. Pour se faire, il existe différentes méthodes qui ne seront pas décrites en détail dans cet article.  
