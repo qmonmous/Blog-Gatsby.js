@@ -239,6 +239,8 @@ print(nx.info(graph))
 nx.draw(graph, with_labels=False, node_size=10)
 ```
 
+![](images/réseau.png)
+
 ### Limites de la visualisation avec NetworkX
 
 La librairie *NetworkX* permet de faire de nombreux calculs statistiques utiles pour étudier le réseau. Toutefois, elle ne permet pas de le visualiser confortablement. Pour se faire, on lui préfère des outils tels que *Gephi* (un peu vieillot) ou *Manylines* (développé récemment par le MediaLab de SciencesPo Paris) par exemple.  
