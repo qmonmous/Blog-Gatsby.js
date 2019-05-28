@@ -78,7 +78,7 @@ const PostFullMetaDate = styled.time`
 export const PostFullTitle = styled.h1`
   margin: 0;
   color: ${setLightness('0.05', colors.darkgrey)};
-  font-size: 3.2em;
+  font-size: 4rem;
   @media (max-width: 500px) {
     font-size: 2.9rem;
   }

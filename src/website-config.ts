@@ -33,7 +33,7 @@ const config: WebsiteConfig = {
   description: 'A blog about Data Sc. & A.I, NeuroSc. & Physiology.',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
-  lang: 'en',
+  lang: 'fr',
   siteUrl: 'https://quentin-monmousseau.netlify.com/author/quentin-monmousseau/',
   github: 'https://github.com/qmonmous',
   linkedin: 'https://www.linkedin.com/in/quentin-monmousseau',
