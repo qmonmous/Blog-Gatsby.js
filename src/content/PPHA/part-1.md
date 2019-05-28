@@ -26,7 +26,7 @@ Pensé par *Neri Oxman* (chercheuse au *MIT* pour le *[Mediated Matter group](ht
 
 Des sous-domaines en naissent directement, comme les humanités digitales par exemple. La (très) bonne nouvelle dans tout ça, c’est que ces nouveaux mouvements sont souvent en faveur de la diffusion, du partage et de la valorisation du savoir. Elles éduquent et élèvent l’Homme sans que la technologie ne soit là pour l’écraser.
 
-Pour Neri Oxman, la révolution industrielle a amené un nouveau paradigme : le monde machine ("the World as Machine"). Elle propose un nouveau modèle à l'ère digitale : le monde organisme ("the World as Organism"). Ayant étudiée la médecine et l'architecture avant de réaliser son phD en Computational Design, elle envisage des créations telle qu'une structure habitable recouverte d'une surface organique intégrant de multiples fonctions (non sans rappeller la peau qui filtre et retient).
+Pour *Neri Oxman*, la révolution industrielle a amené un nouveau paradigme : le monde machine ("the World as Machine"). Elle propose un nouveau modèle à l'ère digitale : le monde organisme ("the World as Organism"). Ayant étudiée la médecine et l'architecture avant de réaliser son phD en Computational Design, elle envisage des créations telle qu'une structure habitable recouverte d'une surface organique intégrant de multiples fonctions (non sans rappeller la peau qui filtre et retient).
 
 > A good designer can, by virtue of design—both the noun and the verb—not only solve problems, but also seek them out, long before they emerge. Your work melds numerous disciplines. How do you decide what to explore?
 

@@ -12,11 +12,12 @@ draft: false
 
 ---
 
-**— Sommaire**
+<center>
 
 **[I. Introduction](#one)**  
 • [A. Le Natural Language Processing](#one-a)  
 • [B. Du texte à la matrice : le bag-of-words](#one-b)  
+
 
 **[II. Preprocessing](#two)**  
 • [A. Récupération du corpus](#two-a)  
@@ -26,6 +27,8 @@ draft: false
 • [E. Les mots les plus fréquents](#two-e)  
 • [F. La lemmatisation](#two-f)  
 • [G. Le stemming](#two-g)
+
+</center>
 
 ---
 
@@ -48,7 +51,7 @@ Voici, entre autres, quelques sujets sur lesquels travailler avec du NLP :
 - la modélisation de thématiques,
 - la traduction automatique...
 
-<a id="one-a"></a>
+<a id="one-b"></a>
 ### B. Du texte à la matrice : le *bag-of-words*
 
 Comme introduit dans mon article sur le Machine Learning, il est nécessaire de représenter nos données sous forme de matrices pour - *in fine* - leur appliquer des modèles prédictifs.
