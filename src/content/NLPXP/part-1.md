@@ -12,7 +12,7 @@ draft: false
 
 ---
 
-<center>
+### Sommaire
 
 **[I. Introduction](#one)**  
 • [A. Le Natural Language Processing](#one-a)  
@@ -27,8 +27,6 @@ draft: false
 • [E. Les mots les plus fréquents](#two-e)  
 • [F. La lemmatisation](#two-f)  
 • [G. Le stemming](#two-g)
-
-</center>
 
 ---
 
