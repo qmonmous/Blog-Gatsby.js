@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🇫🇷 Introduction au Web Mining (Scraping, Crawling) – WMXP (Part. 1)
+title: 🇫🇷 Introduction au Scraping, Crawling – WMXP (Part. 1)
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I.]
 image: images/header-articles.png
@@ -14,31 +14,33 @@ draft: false
 
 **— Sommaire**
 
-**[I. Le Scraping](#one)**  
-**[II. Le Crawling](#two)**  
+**[I. Introduction au Web Mining](#one)**  
+**[II. Le Scraping](#two)**  
+**[III. Le Crawling](#three)**  
 
 ---
 
-## Intro.
+<a id="one"></a>
+## I. Introduction au Web Mining
 
 Le *Web Mining* est une branche spécifique du Data Mining qui s'intéresse aux données issues du web.
 
 Ces données sont très intéressantes pour des problématiques liées au marketing ou aux sciences humaines. En effet, elles permettent de contourner les biais des méthodes expérimentales (préconçus, orientations des questions...) - ou encore le *paradoxe de Labov* - car contrairement aux données recueillies lors de questionnaires/entretiens, les personnes produisent les contenus spontanément.
 
 En Web Mining, on analyse généralement trois types de données :
-- Contenus du web avec le *Scraping*,
-- Structure du web avec le *Crawling*,
-- mais Usages du web (parcours utilisateurs, web analytics...), qu'on ne verra pas dans cet article,
+- contenus des pages web avec le *Scraping*,
+- structure du web avec le *Crawling*,
+- usages du web (parcours utilisateurs, web analytics...), qu'on ne verra pas dans cet article.
 
-### La limite des APIs web
+### II. La limite des APIs web
 
 Sur la plupart des gros sites web, des *APIs* sont mises à disposition pour pouvoir en récupérer les données. C'est par exemple le cas pour Twitter, Facebook ou Linkedin. Toutefois, certaines de ces APIs sont largement limitées (contenu innaccessible, rate limit, options payantes...). Autre problème, des sites moins importants, mais tout aussi intéressant à analyser, ne possèdent tout simplement pas d'API.
 Pour récolter l'ensemble des données qui nous intéressent, il existe une solution puissante qui s'affranchit de ces limites : le *Scraping*.
 
 ---
 
-<a id="one"></a>
-## I. Le Scraping
+<a id="two"></a>
+## II. Le Scraping
 
 *To scrape*, ou gratter en français, c'est l’art d’extraire des données directement depuis leur représentation visuelle. Lorsqu'on crée une page web, on va structurer son contenu avec du HTML. Du templating va permettre de formater et d'insérer des données dynamiques dans ces structures. Ainsi, dans le cas des pages web, on va scraper le HTML lui-même pour récupérer précisément les données souhaitées. D'une certaine manière, on procède à une rétro-ingénierie du processus de templating.
 
@@ -125,8 +127,8 @@ with open('./scraping.json', 'w') as f:
 
 ---
 
-<a id="two"></a>
-## II. Le Crawling
+<a id="three"></a>
+## III. Le Crawling
 
 *To crawl*, ou ramper en français, c'est parcourir le web à l’aide d’un programme (bot, spider) en récupérant :
 - les pages parcourues
