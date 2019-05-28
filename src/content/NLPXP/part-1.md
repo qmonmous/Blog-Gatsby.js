@@ -3,7 +3,7 @@ layout: post
 title: 🇫🇷 Introduction au Natural Language Preprocessing - NLPXP (Part. 1) / En cours d'écriture
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I.]
-image: images/header-articles.png
+image: images/header-articles.1.png
 date: 2019-05-20T23:46:37.121Z
 draft: false
 ---
