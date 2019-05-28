@@ -3,7 +3,7 @@ layout: post
 title: 🇬🇧 An introduction to Machine Learning with Python
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I.]
-image: img/a.jpeg
+image: img/header-articles.png
 date: 2019-03-02T23:46:37.121Z
 draft: false
 ---
