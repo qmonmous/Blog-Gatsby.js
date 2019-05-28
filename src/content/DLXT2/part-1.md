@@ -3,7 +3,7 @@ layout: post
 title: 🇫🇷 Introduction aux Réseaux de Neurones – DLXT2 (Part. 1)
 author: Quentin Monmousseau
 tags: [Data Sc. & A.I.]
-image: images/header.png
+image: images/header-articles.png
 date: 2019-05-11T23:46:37.121Z
 draft: false
 ---
